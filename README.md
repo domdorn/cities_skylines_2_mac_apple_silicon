@@ -6,15 +6,24 @@ I have a MacBook Pro M3 Max and created a guide on Reddit ( https://www.reddit.c
 
 ## Installation Instructions
 
-1.) Install Whisky: https://github.com/Whisky-App/Whisky
-2.) Start Whisky, Create a new Bottle
-3.) Using winetricks,
-  3.1) install DotNet48 (Libraries),
-  3.2) Install "all fonts"
-  3.3) Install steam
-4.) Run steam, Login, Install cities skylines 2
-5.) After you have installed Cities Skylines 2, download this repository as ZIP File
-6.) Open your bundle in finder by clicking "Open C: Drive" in Whisky
-7.) Go to the parent directory of the c_drive by doing a cmd+click on the drive_c title in finder, then click on the folder with a long name like "7228B4F6-DFB2-4243-B445-507DC5755FB1" 
-TBC
+1) Install [Whisky](https://github.com/Whisky-App/Whisky)
+2) Start Whisky, Create a new Bottle
+3) Using winetricks,
+   4) install DotNet48 (Libraries),
+   5) Install "all fonts"
+   6) Install steam
+7) Run steam, Login, Install cities skylines 2
+8) After you have installed Cities Skylines 2, download this repository as ZIP File
+9) Open your bundle in finder by clicking "Open C: Drive" in Whisky
+10) Go to the parent directory of the c_drive by doing a cmd+click on the drive_c title in finder, then click on the folder with a long name like "7228B4F6-DFB2-4243-B445-507DC5755FB1" 
+11) Copy the files in this repository over the existing files in the folder. (important to not accidentially delete the existing folders, just replace the files in the folders with the files in this repository.) 
+12) Run the game
 
+## What does this do?
+
+1) already includes the `version.dll` fix
+2) includes the correct Settings.coc to prevent the issue with volumetric fog
+3) includes the `winhttp.dll` and [BepInEx 5.4.22](https://github.com/BepInEx/BepInEx/releases) for modding including correct configuration
+4) includes the "[Traffic Lights Enhancement](https://github.com/slyh/Cities2-TrafficLightsEnhancement)" mod
+5) includes correct settings for `version.dll` and `winhttp.dll` in `user.reg`
+6) 
