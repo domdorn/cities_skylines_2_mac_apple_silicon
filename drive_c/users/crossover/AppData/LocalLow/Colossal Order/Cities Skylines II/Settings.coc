@@ -1,0 +1,119 @@
+Interface Settings
+{
+    "locale": "de-DE"
+}
+Graphics Settings
+{
+    "qualitySettings": [
+        {
+            "enabled": true,
+            "isAdaptive": true,
+            "upscaleFilter": "EdgeAdaptiveScaling",
+            "minScale": 0.5,
+            "@type": "Game.Settings.DynamicResolutionScaleSettings"
+        },
+        {
+            "smaaQuality": "Low",
+            "outlinesMSAA": "MSAA4x",
+            "@type": "Game.Settings.AntiAliasingQualitySettings"
+        },
+        {
+            "volumetricCloudsEnabled": false,
+            "distanceCloudsEnabled": false,
+            "volumetricCloudsShadows": false,
+            "distanceCloudsShadows": false,
+            "@type": "Game.Settings.CloudsQualitySettings"
+        },
+        {
+            "enabled": false,
+            "@type": "Game.Settings.FogQualitySettings"
+        },
+        {
+            "enabled": false,
+            "@type": "Game.Settings.VolumetricsQualitySettings"
+        },
+        {
+            "maxPixelRadius": 40,
+            "stepCount": 6,
+            "@type": "Game.Settings.SSAOQualitySettings"
+        },
+        {
+            "raySteps": 64,
+            "@type": "Game.Settings.SSGIQualitySettings"
+        },
+        {
+            "maxRaySteps": 32,
+            "@type": "Game.Settings.SSRQualitySettings"
+        },
+        {
+            "nearSampleCount": 5,
+            "nearMaxRadius": 4,
+            "farSampleCount": 7,
+            "farMaxRadius": 8,
+            "@type": "Game.Settings.DepthOfFieldQualitySettings"
+        },
+        {
+            "sampleCount": 8,
+            "@type": "Game.Settings.MotionBlurQualitySettings"
+        },
+        {
+            "directionalShadowResolution": 1024,
+            "@type": "Game.Settings.ShadowsQualitySettings"
+        },
+        {
+            "finalTessellation": 3,
+            "targetPatchSize": 16,
+            "@type": "Game.Settings.TerrainQualitySettings"
+        },
+        {
+            "maxTessellationFactor": 6,
+            "@type": "Game.Settings.WaterQualitySettings"
+        },
+        {
+            "levelOfDetail": 0.5,
+            "maxLightCount": 4096,
+            "meshMemoryBudget": 1024,
+            "@type": "Game.Settings.LevelOfDetailQualitySettings"
+        },
+        {
+            "maxBoneInfuence": "TwoBones",
+            "@type": "Game.Settings.AnimationQualitySettings"
+        },
+        {
+            "mipbias": 1,
+            "@type": "Game.Settings.TextureQualitySettings"
+        }
+    ],
+    "resolution": {
+        "width": 2560,
+        "height": 1080,
+        "refreshRate": {
+            "numerator": 60000,
+            "denominator": 1000
+        }
+    },
+    "displayMode": "Fullscreen",
+    "vSync": true,
+    "maxFrameLatency": 3
+}
+Audio Settings
+{
+    "menuVolume": 0,
+    "ingameVolume": 0,
+    "radioActive": false,
+    "radioVolume": 0
+}
+Keybinding Settings
+{
+    "bindings": []
+}
+Gameplay Settings
+{
+    "dayNightVisual": false,
+    "showTutorials": false
+}
+General Settings
+{
+    "performancePreference": "SimulationSpeed",
+    "fpsMode": "Simple"
+}
