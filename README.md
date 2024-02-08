@@ -1,8 +1,8 @@
 # Cities: Skylines 2 on Mac / Apple Silicon
 
-This repository is the approach to simplify getting *Cities Skylines 2* running on MacOS / Apple Silicon.
+<strong>This repository is the approach to simplify getting *Cities Skylines 2* running on MacOS / Apple Silicon.</strong>
 
-I have a MacBook Pro M3 Max and created a guide on Reddit ( https://www.reddit.com/r/CitiesSkylines2/comments/197i518/running_cities_skylines_2_on_macbook_pro_m3_max/ ) 
+This repository should simplify the process and make it easier for others to get the game running on their Macs without many manual steps.
 
 ## Installation Instructions
 
@@ -26,4 +26,9 @@ I have a MacBook Pro M3 Max and created a guide on Reddit ( https://www.reddit.c
 3) includes the `winhttp.dll` and [BepInEx 5.4.22](https://github.com/BepInEx/BepInEx/releases) for modding including correct configuration
 4) includes the "[Traffic Lights Enhancement](https://github.com/slyh/Cities2-TrafficLightsEnhancement)" mod
 5) includes correct settings for `version.dll` and `winhttp.dll` in `user.reg`
-6) 
+
+
+## Previous work
+I previously created an initial guide on Reddit ( https://www.reddit.com/r/CitiesSkylines2/comments/197i518/running_cities_skylines_2_on_macbook_pro_m3_max/ )
+This repository is a continuation of that work and should simplify the process for others.
+
