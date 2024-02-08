@@ -1,0 +1,6 @@
+
+*.soc text eol=crlf
+*.ini text eol=crlf
+*.cfg text eol=crlf
+*.xml text eol=crlf
+*.dll binary
