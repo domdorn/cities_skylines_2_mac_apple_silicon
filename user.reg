@@ -1,0 +1,2052 @@
+WINE REGISTRY Version 2
+;; All keys relative to \\User\\S-1-5-21-0-0-0-1000
+
+#arch=win64
+
+[AppEvents\\Schemes\\Apps\\Explorer\\Navigating\\.Current] 1705272886
+#time=1da473cab9741a8
+@=""
+
+[Console\\__?_C:_Program Files (x86)_Common Files_Steam_SteamService.exe] 1705277883
+#time=1da47484e6cb010
+"ColorTable00"=dword:00000000
+"ColorTable01"=dword:00800000
+"ColorTable02"=dword:00008000
+"ColorTable03"=dword:00808000
+"ColorTable04"=dword:00000080
+"ColorTable05"=dword:00800080
+"ColorTable06"=dword:00008080
+"ColorTable07"=dword:00c0c0c0
+"ColorTable08"=dword:00808080
+"ColorTable09"=dword:00ff0000
+"ColorTable10"=dword:0000ff00
+"ColorTable11"=dword:00ffff00
+"ColorTable12"=dword:000000ff
+"ColorTable13"=dword:00ff00ff
+"ColorTable14"=dword:0000ffff
+"ColorTable15"=dword:00ffffff
+"CursorSize"=dword:00000019
+"CursorVisible"=dword:00000001
+"EditionMode"=dword:00000000
+"FaceName"="Courier New"
+"FontPitchFamily"=dword:00000036
+"FontSize"=dword:00100008
+"FontWeight"=dword:00000190
+"HistoryBufferSize"=dword:00000032
+"HistoryNoDup"=dword:00000000
+"InsertMode"=dword:00000001
+"MenuMask"=dword:00000000
+"PopupColors"=dword:000000f5
+"QuickEdit"=dword:00000000
+"ScreenBufferSize"=dword:00960050
+"ScreenColors"=dword:0000000f
+"WindowSize"=dword:00190050
+
+[Console\\C:_Program Files (x86)_Steam_steamapps_common_Cities Skylines II_Cities2.exe] 1706397469
+#time=1da51770ba80db8
+"ColorTable00"=dword:00000000
+"ColorTable01"=dword:00800000
+"ColorTable02"=dword:00008000
+"ColorTable03"=dword:00808000
+"ColorTable04"=dword:00000080
+"ColorTable05"=dword:00800080
+"ColorTable06"=dword:00008080
+"ColorTable07"=dword:00c0c0c0
+"ColorTable08"=dword:00808080
+"ColorTable09"=dword:00ff0000
+"ColorTable10"=dword:0000ff00
+"ColorTable11"=dword:00ffff00
+"ColorTable12"=dword:000000ff
+"ColorTable13"=dword:00ff00ff
+"ColorTable14"=dword:0000ffff
+"ColorTable15"=dword:00ffffff
+"CursorSize"=dword:00000019
+"CursorVisible"=dword:00000001
+"EditionMode"=dword:00000000
+"FaceName"="Courier New"
+"FontPitchFamily"=dword:00000036
+"FontSize"=dword:00100008
+"FontWeight"=dword:00000190
+"HistoryBufferSize"=dword:00000032
+"HistoryNoDup"=dword:00000000
+"InsertMode"=dword:00000001
+"MenuMask"=dword:00000000
+"PopupColors"=dword:000000f5
+"QuickEdit"=dword:00000000
+"ScreenBufferSize"=dword:00960050
+"ScreenColors"=dword:0000000f
+"WindowSize"=dword:00190050
+
+[Console\\C:_windows_system32_winedbg.exe] 1705339945
+#time=1da47d8ce294350
+"ColorTable00"=dword:00000000
+"ColorTable01"=dword:00800000
+"ColorTable02"=dword:00008000
+"ColorTable03"=dword:00808000
+"ColorTable04"=dword:00000080
+"ColorTable05"=dword:00800080
+"ColorTable06"=dword:00008080
+"ColorTable07"=dword:00c0c0c0
+"ColorTable08"=dword:00808080
+"ColorTable09"=dword:00ff0000
+"ColorTable10"=dword:0000ff00
+"ColorTable11"=dword:00ffff00
+"ColorTable12"=dword:000000ff
+"ColorTable13"=dword:00ff00ff
+"ColorTable14"=dword:0000ffff
+"ColorTable15"=dword:00ffffff
+"CursorSize"=dword:00000019
+"CursorVisible"=dword:00000001
+"EditionMode"=dword:00000000
+"FaceName"="Courier New"
+"FontPitchFamily"=dword:00000036
+"FontSize"=dword:00100008
+"FontWeight"=dword:00000190
+"HistoryBufferSize"=dword:00000032
+"HistoryNoDup"=dword:00000000
+"InsertMode"=dword:00000001
+"MenuMask"=dword:00000000
+"PopupColors"=dword:000000f5
+"QuickEdit"=dword:00000000
+"ScreenBufferSize"=dword:00960050
+"ScreenColors"=dword:0000000f
+"WindowSize"=dword:00190050
+
+[Console\\Y:_steam_SteamSetup.exe] 1705274831
+#time=1da4741332df7a2
+"ColorTable00"=dword:00000000
+"ColorTable01"=dword:00800000
+"ColorTable02"=dword:00008000
+"ColorTable03"=dword:00808000
+"ColorTable04"=dword:00000080
+"ColorTable05"=dword:00800080
+"ColorTable06"=dword:00008080
+"ColorTable07"=dword:00c0c0c0
+"ColorTable08"=dword:00808080
+"ColorTable09"=dword:00ff0000
+"ColorTable10"=dword:0000ff00
+"ColorTable11"=dword:00ffff00
+"ColorTable12"=dword:000000ff
+"ColorTable13"=dword:00ff00ff
+"ColorTable14"=dword:0000ffff
+"ColorTable15"=dword:00ffffff
+"CursorSize"=dword:00000019
+"CursorVisible"=dword:00000001
+"EditionMode"=dword:00000000
+"FaceName"="Courier New"
+"FontPitchFamily"=dword:00000036
+"FontSize"=dword:00100008
+"FontWeight"=dword:00000190
+"HistoryBufferSize"=dword:00000032
+"HistoryNoDup"=dword:00000000
+"InsertMode"=dword:00000001
+"MenuMask"=dword:00000000
+"PopupColors"=dword:000000f5
+"QuickEdit"=dword:00000000
+"ScreenBufferSize"=dword:00960050
+"ScreenColors"=dword:0000000f
+"WindowSize"=dword:00190050
+
+[Control Panel\\Accessibility\\AudioDescription] 1705272882
+#time=1da473ca99840be
+"Locale"=dword:00000000
+"On"="0"
+
+[Control Panel\\Accessibility\\Blind Access] 1705272882
+#time=1da473ca9983a9c
+"On"="0"
+
+[Control Panel\\Accessibility\\Keyboard Preference] 1705272882
+#time=1da473ca9983240
+"On"="1"
+
+[Control Panel\\Accessibility\\ShowSounds] 1705272882
+#time=1da473ca9983c40
+"On"="0"
+
+[Control Panel\\Colors] 1705272886
+#time=1da473cabd50768
+"ActiveBorder"="255 255 255"
+"ActiveTitle"="50 150 250"
+"AppWorkSpace"="128 128 128"
+"Background"="37 111 149"
+"ButtonAlternateFace"="255 255 255"
+"ButtonDkShadow"="106 106 106"
+"ButtonFace"="245 245 245"
+"ButtonHilight"="255 255 255"
+"ButtonLight"="227 227 227"
+"ButtonShadow"="166 166 166"
+"ButtonText"="0 0 0"
+"GradientActiveTitle"="50 150 250"
+"GradientInactiveTitle"="128 128 128"
+"GrayText"="166 166 166"
+"Hilight"="48 150 250"
+"HilightText"="255 255 255"
+"HotTrackingColor"="224 224 224"
+"InactiveBorder"="255 255 255"
+"InactiveTitle"="128 128 128"
+"InactiveTitleText"="200 200 200"
+"InfoText"="0 0 0"
+"InfoWindow"="255 255 255"
+"Menu"="255 255 255"
+"MenuBar"="255 255 255"
+"MenuHilight"="48 150 250"
+"MenuText"="0 0 0"
+"Scrollbar"="255 255 255"
+"TitleText"="0 0 0"
+"Window"="255 255 255"
+"WindowFrame"="158 158 158"
+"WindowText"="0 0 0"
+
+[Control Panel\\Desktop] 1705340158
+#time=1da47d94ca1dae4
+"ActiveWndTrackTimeout"=dword:00000000
+"BlockSendInputResets"="0"
+"CaretWidth"=dword:00000001
+"ClickLockTime"=dword:000004b0
+"DoubleClickHeight"="4"
+"DoubleClickWidth"="4"
+"DragFullWindows"="0"
+"DragHeight"="4"
+"DragWidth"="4"
+"FocusBorderHeight"=dword:00000001
+"FocusBorderWidth"=dword:00000001
+"FontSmoothing"="2"
+"FontSmoothingGamma"=dword:00000000
+"FontSmoothingOrientation"=dword:00000001
+"FontSmoothingType"=dword:00000001
+"ForegroundFlashCount"=dword:00000003
+"ForegroundLockTimeout"=dword:00000000
+"IconTitleWrap"="1"
+"LogPixels"=dword:00000000
+"LowPowerActive"="0"
+"MenuShowDelay"="400"
+"UserPreferencesMask"=hex:30,00,02,80,12,00,00,00
+"Wallpaper"=""
+"WheelScrollChars"="3"
+"WheelScrollLines"="3"
+
+[Control Panel\\Desktop\\WindowMetrics] 1706040727
+#time=1da4e387051e2e4
+"BorderWidth"="1"
+"CaptionFont"=hex:f5,ff,ff,ff,00,00,00,00,00,00,00,00,00,00,00,00,bc,02,00,00,\
+  00,00,00,00,00,00,00,22,54,00,61,00,68,00,6f,00,6d,00,61,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00
+"CaptionHeight"="-270"
+"CaptionWidth"="-270"
+"IconFont"=hex:f5,ff,ff,ff,00,00,00,00,00,00,00,00,00,00,00,00,90,01,00,00,00,\
+  00,00,00,00,00,00,22,54,00,61,00,68,00,6f,00,6d,00,61,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00
+"IconSpacing"="-1125"
+"IconTitleWrap"="1"
+"IconVerticalSpacing"="-1125"
+"MenuFont"=hex:f5,ff,ff,ff,00,00,00,00,00,00,00,00,00,00,00,00,90,01,00,00,00,\
+  00,00,00,00,00,00,22,54,00,61,00,68,00,6f,00,6d,00,61,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00
+"MenuHeight"="-270"
+"MenuWidth"="-270"
+"MessageFont"=hex:f5,ff,ff,ff,00,00,00,00,00,00,00,00,00,00,00,00,90,01,00,00,\
+  00,00,00,00,00,00,00,22,54,00,61,00,68,00,6f,00,6d,00,61,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00
+"PaddedBorderWidth"="0"
+"ScrollHeight"="-255"
+"ScrollWidth"="-255"
+"SmCaptionFont"=hex:f5,ff,ff,ff,00,00,00,00,00,00,00,00,00,00,00,00,90,01,00,\
+  00,00,00,00,00,00,00,00,22,54,00,61,00,68,00,6f,00,6d,00,61,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00
+"SmCaptionHeight"="-225"
+"SmCaptionWidth"="-225"
+"StatusFont"=hex:f5,ff,ff,ff,00,00,00,00,00,00,00,00,00,00,00,00,90,01,00,00,\
+  00,00,00,00,00,00,00,22,54,00,61,00,68,00,6f,00,6d,00,61,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00
+
+[Control Panel\\International] 1705278062
+#time=1da4748b912dc32
+"iCalendarType"="1"
+"iCountry"="44"
+"iCurrDigits"="2"
+"iCurrency"="0"
+"iDate"="1"
+"iDigits"="2"
+"iFirstDayOfWeek"="0"
+"iFirstWeekOfYear"="2"
+"iLZero"="1"
+"iMeasure"="0"
+"iNegCurr"="0"
+"iNegNumber"="1"
+"iPaperSize"="9"
+"iTime"="1"
+"iTimePrefix"="0"
+"iTLZero"="1"
+"Locale"="00000809"
+"LocaleName"="en-GB"
+"NumShape"="1"
+"s1159"="am"
+"s2359"="pm"
+"sCountry"="United Kingdom"
+"sCurrency"="\xa3"
+"sDate"="/"
+"sDecimal"="."
+"sGrouping"="3;0"
+"sLanguage"="ENG"
+"sList"=","
+"sLongDate"="dddd, d MMMM yyyy"
+"sMonDecimalSep"="."
+"sMonGrouping"="3;0"
+"sMonThousandSep"=","
+"sNativeDigits"="0123456789"
+"sNegativeSign"="-"
+"sPositiveSign"=""
+"sShortDate"="dd/MM/yyyy"
+"sShortTime"="HH:mm"
+"sThousand"=","
+"sTime"=":"
+"sTimeFormat"="HH:mm:ss"
+"sYearMonth"="MMMM yyyy"
+
+[Control Panel\\International\\Geo] 1705278062
+#time=1da4748b912de8a
+"Name"="GB"
+"Nation"="242"
+
+[Control Panel\\Keyboard] 1705272882
+#time=1da473ca99832cc
+"KeyboardDelay"="1"
+"KeyboardSpeed"="31"
+
+[Control Panel\\Mouse] 1705272882
+#time=1da473ca9983da8
+"ActiveWindowTracking"=dword:00000000
+"DoubleClickHeight"="4"
+"DoubleClickSpeed"="500"
+"DoubleClickWidth"="4"
+"MouseHoverHeight"="4"
+"MouseHoverTime"="400"
+"MouseHoverWidth"="4"
+"MouseSensitivity"="10"
+"MouseSpeed"="1"
+"MouseThreshold1"="6"
+"MouseThreshold2"="10"
+"SnapToDefaultButton"="0"
+"SwapMouseButtons"="0"
+
+[Control Panel\\Sound] 1705272882
+#time=1da473ca998234a
+"Beep"="Yes"
+
+[Environment] 1705272885
+#time=1da473cab468db2
+"TEMP"="C:\\users\\crossover\\Temp"
+"TMP"="C:\\users\\crossover\\Temp"
+
+[Keyboard Layout\\Preload] 1705278063
+#time=1da4748b94666c4
+"1"="00000809"
+
+[Software\\Chromium\\BLBeacon] 1705274852
+#time=1da47413f62a662
+
+[Software\\Classes\\steam] 1706912024
+#time=1da562515d86cb2
+@="URL:steam protocol"
+"URL Protocol"=hex(1):
+
+[Software\\Classes\\steam\\DefaultIcon] 1705274831
+#time=1da474133334d10
+@="steam.exe"
+
+[Software\\Classes\\steam\\Shell\\Open\\Command] 1705274831
+#time=1da474133335062
+@="\"C:\\Program Files (x86)\\Steam\\steam.exe\" -- \"%1\""
+
+[Software\\Classes\\steamlink] 1706912024
+#time=1da562515d8728e
+@="URL:steamlink protocol"
+"URL Protocol"=hex(1):
+
+[Software\\Classes\\steamlink\\DefaultIcon] 1705274831
+#time=1da47413333522e
+@="steam.exe"
+
+[Software\\Classes\\steamlink\\Shell\\Open\\Command] 1705274831
+#time=1da474133335580
+@="\"C:\\Program Files (x86)\\Steam\\steam.exe\" -- \"%1\""
+
+[Software\\Colossal Order\\Cities Skylines II] 1707348840
+#time=1da5a1e20b3f78a
+"backtrace-machine-id_h3965023879"=hex:63,39,62,61,63,38,33,64,32,38,38,65,65,\
+  33,65,31,37,61,30,35,37,33,38,32,32,30,62,66,37,66,38,33,38,38,38,33,30,31,\
+  35,63,00
+"backtrace-scoped-attributes_h448460910"=hex:7b,22,4b,65,79,73,22,3a,5b,22,67,\
+  75,69,64,22,2c,22,67,72,61,70,68,69,63,2e,69,64,22,2c,22,67,72,61,70,68,69,\
+  63,2e,6e,61,6d,65,22,2c,22,67,72,61,70,68,69,63,2e,74,79,70,65,22,2c,22,67,\
+  72,61,70,68,69,63,2e,76,65,6e,64,6f,72,22,2c,22,67,72,61,70,68,69,63,2e,76,\
+  65,6e,64,6f,72,2e,69,64,22,2c,22,67,72,61,70,68,69,63,2e,64,72,69,76,65,72,\
+  2e,76,65,72,73,69,6f,6e,22,2c,22,67,72,61,70,68,69,63,2e,6d,65,6d,6f,72,79,\
+  22,2c,22,67,72,61,70,68,69,63,2e,6d,75,6c,74,69,74,68,72,65,61,64,65,64,22,\
+  2c,22,67,72,61,70,68,69,63,2e,73,68,61,64,65,72,22,2c,22,67,72,61,70,68,69,\
+  63,2e,74,6f,70,55,76,22,2c,22,75,6e,61,6d,65,2e,6d,61,63,68,69,6e,65,22,2c,\
+  22,75,6e,61,6d,65,2e,73,79,73,6e,61,6d,65,22,2c,22,75,6e,61,6d,65,2e,76,65,\
+  72,73,69,6f,6e,22,2c,22,75,6e,61,6d,65,2e,66,75,6c,6c,6e,61,6d,65,22,2c,22,\
+  75,6e,61,6d,65,2e,66,61,6d,69,6c,79,22,2c,22,63,70,75,2e,63,6f,75,6e,74,22,\
+  2c,22,63,70,75,2e,66,72,65,71,75,65,6e,63,79,22,2c,22,63,70,75,2e,62,72,61,\
+  6e,64,22,2c,22,61,75,64,69,6f,2e,73,75,70,70,6f,72,74,65,64,22,2c,22,63,70,\
+  75,2e,62,6f,6f,74,74,69,6d,65,22,2c,22,68,6f,73,74,6e,61,6d,65,22,2c,22,76,\
+  6d,2e,72,73,73,2e,73,69,7a,65,22,2c,22,62,61,63,6b,74,72,61,63,65,2e,76,65,\
+  72,73,69,6f,6e,22,2c,22,61,70,69,2e,63,6f,6d,70,61,74,69,62,69,6c,69,74,79,\
+  22,2c,22,73,63,72,69,70,74,69,6e,67,2e,62,61,63,6b,65,6e,64,22,2c,22,61,70,\
+  70,6c,69,63,61,74,69,6f,6e,22,2c,22,61,70,70,6c,69,63,61,74,69,6f,6e,2e,76,\
+  65,72,73,69,6f,6e,22,2c,22,61,70,70,6c,69,63,61,74,69,6f,6e,2e,75,72,6c,22,\
+  2c,22,61,70,70,6c,69,63,61,74,69,6f,6e,2e,63,6f,6d,70,61,6e,79,2e,6e,61,6d,\
+  65,22,2c,22,61,70,70,6c,69,63,61,74,69,6f,6e,2e,64,61,74,61,5f,70,61,74,68,\
+  22,2c,22,61,70,70,6c,69,63,61,74,69,6f,6e,2e,69,64,22,2c,22,61,70,70,6c,69,\
+  63,61,74,69,6f,6e,2e,70,61,63,6b,61,67,65,22,2c,22,61,70,70,6c,69,63,61,74,\
+  69,6f,6e,2e,69,6e,73,74,61,6c,6c,65,72,2e,6e,61,6d,65,22,2c,22,61,70,70,6c,\
+  69,63,61,74,69,6f,6e,2e,65,64,69,74,6f,72,22,2c,22,61,70,70,6c,69,63,61,74,\
+  69,6f,6e,2e,6d,6f,62,69,6c,65,22,2c,22,61,70,70,6c,69,63,61,74,69,6f,6e,2e,\
+  73,61,6e,64,62,6f,78,54,79,70,65,22,2c,22,61,70,70,6c,69,63,61,74,69,6f,6e,\
+  2e,73,79,73,74,65,6d,2e,6c,61,6e,67,75,61,67,65,22,2c,22,61,70,70,6c,69,63,\
+  61,74,69,6f,6e,2e,75,6e,69,74,79,2e,76,65,72,73,69,6f,6e,22,2c,22,61,70,70,\
+  6c,69,63,61,74,69,6f,6e,2e,64,65,62,75,67,22,2c,22,61,70,70,6c,69,63,61,74,\
+  69,6f,6e,2e,74,65,6d,70,6f,72,61,72,79,5f,63,61,63,68,65,22,2c,22,64,65,76,\
+  69,63,65,2e,6d,6f,64,65,6c,22,2c,22,64,65,76,69,63,65,2e,6d,61,63,68,69,6e,\
+  65,22,2c,22,64,65,76,69,63,65,2e,6e,61,6d,65,22,2c,22,64,65,76,69,63,65,2e,\
+  74,79,70,65,22,2c,22,61,70,70,6c,69,63,61,74,69,6f,6e,2e,73,65,73,73,69,6f,\
+  6e,22,2c,22,67,61,6d,65,2e,76,65,72,73,69,6f,6e,22,2c,22,63,6f,68,74,6d,6c,\
+  2e,76,65,72,73,69,6f,6e,22,2c,22,70,64,78,73,64,6b,2e,76,65,72,73,69,6f,6e,\
+  22,2c,22,61,74,6c,2e,76,65,72,73,69,6f,6e,22,2c,22,67,61,6d,65,2e,6d,6f,64,\
+  64,69,6e,67,52,75,6e,74,69,6d,65,22,2c,22,67,61,6d,65,2e,76,65,72,73,69,6f,\
+  6e,22,2c,22,63,6f,68,74,6d,6c,2e,76,65,72,73,69,6f,6e,22,2c,22,70,64,78,73,\
+  64,6b,2e,76,65,72,73,69,6f,6e,22,2c,22,61,74,6c,2e,76,65,72,73,69,6f,6e,22,\
+  2c,22,67,61,6d,65,2e,6d,6f,64,64,69,6e,67,52,75,6e,74,69,6d,65,22,5d,7d,00
+"bt-api.compatibility_h2917086278"=hex:2e,4e,45,54,20,46,72,61,6d,65,77,6f,72,\
+  6b,20,34,2e,35,00
+"bt-application.company.name_h2935026532"=hex:43,6f,6c,6f,73,73,61,6c,20,4f,72,\
+  64,65,72,00
+"bt-application.data_path_h343316744"=hex:43,3a,2f,50,72,6f,67,72,61,6d,20,46,\
+  69,6c,65,73,20,28,78,38,36,29,2f,53,74,65,61,6d,2f,73,74,65,61,6d,61,70,70,\
+  73,2f,63,6f,6d,6d,6f,6e,2f,43,69,74,69,65,73,20,53,6b,79,6c,69,6e,65,73,20,\
+  49,49,2f,43,69,74,69,65,73,32,5f,44,61,74,61,00
+"bt-application.debug_h3325904315"=hex:46,61,6c,73,65,00
+"bt-application.editor_h2648216491"=hex:46,61,6c,73,65,00
+"bt-application.id_h220714855"=hex:00
+"bt-application.installer.name_h1909919509"=hex:00
+"bt-application.mobile_h2339203114"=hex:46,61,6c,73,65,00
+"bt-application.package_h4021872336"=hex:00
+"bt-application.sandboxType_h377885471"=hex:55,6e,6b,6e,6f,77,6e,00
+"bt-application.session_h1156654100"=hex:63,63,33,38,36,38,38,36,2d,33,65,37,\
+  36,2d,34,38,64,65,2d,61,30,37,62,2d,65,35,30,61,62,35,30,63,66,36,32,62,00
+"bt-application.system.language_h1304774323"=hex:45,6e,67,6c,69,73,68,00
+"bt-application.temporary_cache_h1023436642"=hex:43,3a,2f,75,73,65,72,73,2f,63,\
+  72,6f,73,73,6f,76,65,72,2f,54,65,6d,70,2f,43,6f,6c,6f,73,73,61,6c,20,4f,72,\
+  64,65,72,2f,43,69,74,69,65,73,20,53,6b,79,6c,69,6e,65,73,20,49,49,00
+"bt-application.unity.version_h3168538945"=hex:32,30,32,32,2e,33,2e,37,66,31,\
+  00
+"bt-application.url_h2988652769"=hex:00
+"bt-application.version_h2848503760"=hex:31,2e,30,2e,31,39,66,31,00
+"bt-application_h2174201124"=hex:43,69,74,69,65,73,20,53,6b,79,6c,69,6e,65,73,\
+  20,49,49,00
+"bt-atl.version_h1793777171"=hex:33,2e,34,2e,31,2e,30,00
+"bt-audio.supported_h2880030504"=hex:54,72,75,65,00
+"bt-backtrace.version_h1507369760"=hex:33,2e,38,2e,33,00
+"bt-cohtml.version_h1747839483"=hex:31,2e,33,38,2e,30,2e,38,00
+"bt-cpu.boottime_h1725631445"=hex:38,37,36,36,30,30,35,37,30,00
+"bt-cpu.brand_h2104607917"=hex:56,69,72,74,75,61,6c,41,70,70,6c,65,20,40,20,32,\
+  2e,35,30,47,48,7a,00
+"bt-cpu.count_h2103951957"=hex:34,00
+"bt-cpu.frequency_h786351186"=hex:32,34,30,30,00
+"bt-device.machine_h1086075853"=hex:57,69,6e,65,20,28,54,68,65,20,57,69,6e,65,\
+  20,50,72,6f,6a,65,63,74,29,00
+"bt-device.model_h119678119"=hex:57,69,6e,65,20,28,54,68,65,20,57,69,6e,65,20,\
+  50,72,6f,6a,65,63,74,29,00
+"bt-device.name_h263889519"=hex:4d,41,43,42,4f,4f,4b,2d,50,52,4f,00
+"bt-device.type_h264514832"=hex:44,65,73,6b,74,6f,70,00
+"bt-game.moddingRuntime_h919707168"=hex:42,65,70,49,6e,45,78,20,35,2e,34,2e,32,\
+  31,2e,30,00
+"bt-game.version_h484605092"=hex:31,2e,30,2e,31,39,66,31,20,28,33,39,30,30,2e,\
+  32,35,35,39,36,29,20,5b,35,33,34,38,2e,32,39,34,32,38,5d,00
+"bt-graphic.driver.version_h743386268"=hex:44,69,72,65,63,74,33,44,20,31,31,2e,\
+  30,20,5b,6c,65,76,65,6c,20,31,31,2e,31,5d,00
+"bt-graphic.id_h3632673371"=hex:32,36,32,38,37,00
+"bt-graphic.memory_h840314359"=hex:34,39,31,35,32,00
+"bt-graphic.multithreaded_h1505917104"=hex:46,61,6c,73,65,00
+"bt-graphic.name_h316104401"=hex:41,4d,44,20,43,6f,6d,70,61,74,69,62,69,6c,69,\
+  74,79,20,4d,6f,64,65,00
+"bt-graphic.shader_h4126480415"=hex:35,30,00
+"bt-graphic.topUv_h1820542398"=hex:54,72,75,65,00
+"bt-graphic.type_h315479022"=hex:44,69,72,65,63,74,33,44,31,31,00
+"bt-graphic.vendor.id_h1412269713"=hex:34,30,39,38,00
+"bt-graphic.vendor_h4001241682"=hex:41,54,49,00
+"bt-guid_h2718802305"=hex:63,39,62,61,63,38,33,64,32,38,38,65,65,33,65,31,37,\
+  61,30,35,37,33,38,32,32,30,62,66,37,66,38,33,38,38,38,33,30,31,35,63,00
+"bt-hostname_h336090969"=hex:4d,41,43,42,4f,4f,4b,2d,50,52,4f,00
+"bt-pdxsdk.version_h639998266"=hex:31,2e,31,35,2e,30,00
+"bt-scripting.backend_h30347515"=hex:4d,6f,6e,6f,00
+"bt-uname.family_h1715203668"=hex:57,69,6e,64,6f,77,73,00
+"bt-uname.fullname_h2431557974"=hex:57,69,6e,64,6f,77,73,20,37,20,20,28,36,2e,\
+  31,2e,30,29,20,36,34,62,69,74,00
+"bt-uname.machine_h369336103"=hex:61,6d,64,36,34,00
+"bt-uname.sysname_h1943872796"=hex:57,69,6e,64,6f,77,73,00
+"bt-uname.version_h4077077496"=hex:36,2e,31,2e,37,36,30,31,2e,36,35,35,33,36,\
+  00
+"bt-vm.rss.size_h4160558610"=hex:36,38,37,31,38,34,32,38,31,36,30,00
+"Screenmanager Fullscreen mode Default_h401710285"=dword:00000001
+"Screenmanager Fullscreen mode_h3630240806"=dword:00000000
+"Screenmanager Resolution Height Default_h1380706816"=dword:00000300
+"Screenmanager Resolution Height_h2627697771"=dword:00000500
+"Screenmanager Resolution Use Native Default_h1405981789"=dword:00000001
+"Screenmanager Resolution Use Native_h1405027254"=dword:00000001
+"Screenmanager Resolution Width Default_h680557497"=dword:00000400
+"Screenmanager Resolution Width_h182942802"=dword:00000800
+"Screenmanager Stereo 3D_h1665754519"=dword:00000001
+"Screenmanager Window Position X_h4088080503"=dword:00000000
+"Screenmanager Window Position Y_h4088080502"=dword:00000000
+"unity.player_session_count_h922449978"=hex:36,38,00
+"unity.player_sessionid_h1351336811"=hex:37,38,33,38,35,39,33,36,31,38,30,38,\
+  31,31,36,32,31,31,38,00
+"UnitySelectMonitor_h17969598"=dword:00000000
+
+[Software\\Microsoft\\ActiveMovie\\devenum\\{33D9A760-90C8-11D0-BD43-00A0C911CE86}\\cvid] 1706393691
+#time=1da516e3fb1c5bc
+"CLSID"="{D76E2820-1563-11CF-AC98-00AA004C0FA9}"
+"FccHandler"="cvid"
+"FilterData"=hex:02,00,00,00,00,00,20,00,02,00,00,00,00,00,00,00,30,70,69,33,\
+  00,00,00,00,00,00,00,00,01,00,00,00,00,00,00,00,00,00,00,00,30,74,79,33,00,\
+  00,00,00,60,00,00,00,70,00,00,00,31,70,69,33,08,00,00,00,00,00,00,00,01,00,\
+  00,00,00,00,00,00,00,00,00,00,30,74,79,33,00,00,00,00,60,00,00,00,80,00,00,\
+  00,76,69,64,73,00,00,10,00,80,00,00,aa,00,38,9b,71,63,76,69,64,00,00,10,00,\
+  80,00,00,aa,00,38,9b,71,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00
+"FriendlyName"="Cinepak Video codec"
+
+[Software\\Microsoft\\ActiveMovie\\devenum\\{33D9A760-90C8-11D0-BD43-00A0C911CE86}\\mrle] 1706393691
+#time=1da516e3fb1355c
+"CLSID"="{D76E2820-1563-11CF-AC98-00AA004C0FA9}"
+"FccHandler"="mrle"
+"FilterData"=hex:02,00,00,00,00,00,20,00,02,00,00,00,00,00,00,00,30,70,69,33,\
+  00,00,00,00,00,00,00,00,01,00,00,00,00,00,00,00,00,00,00,00,30,74,79,33,00,\
+  00,00,00,60,00,00,00,70,00,00,00,31,70,69,33,08,00,00,00,00,00,00,00,01,00,\
+  00,00,00,00,00,00,00,00,00,00,30,74,79,33,00,00,00,00,60,00,00,00,80,00,00,\
+  00,76,69,64,73,00,00,10,00,80,00,00,aa,00,38,9b,71,4d,52,4c,45,00,00,10,00,\
+  80,00,00,aa,00,38,9b,71,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00
+"FriendlyName"="Wine MS-RLE video codec"
+
+[Software\\Microsoft\\ActiveMovie\\devenum\\{33D9A760-90C8-11D0-BD43-00A0C911CE86}\\msvc] 1706393691
+#time=1da516e3fb1826e
+"CLSID"="{D76E2820-1563-11CF-AC98-00AA004C0FA9}"
+"FccHandler"="msvc"
+"FilterData"=hex:02,00,00,00,00,00,20,00,02,00,00,00,00,00,00,00,30,70,69,33,\
+  00,00,00,00,00,00,00,00,01,00,00,00,00,00,00,00,00,00,00,00,30,74,79,33,00,\
+  00,00,00,60,00,00,00,70,00,00,00,31,70,69,33,08,00,00,00,00,00,00,00,01,00,\
+  00,00,00,00,00,00,00,00,00,00,30,74,79,33,00,00,00,00,60,00,00,00,80,00,00,\
+  00,76,69,64,73,00,00,10,00,80,00,00,aa,00,38,9b,71,43,52,41,4d,00,00,10,00,\
+  80,00,00,aa,00,38,9b,71,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00
+"FriendlyName"="Wine Video 1 video codec"
+
+[Software\\Microsoft\\ActiveMovie\\devenum\\{33D9A762-90C8-11D0-BD43-00A0C911CE86}\\C922 Pro Stream Webcam] 1706393693
+#time=1da516e40e32520
+"CLSID"="{E30629D2-27E5-11CE-875D-00608CB78066}"
+"FilterData"=hex:02,00,00,00,00,00,20,00,00,00,00,00,00,00,00,00
+"FriendlyName"="C922 Pro Stream Webcam"
+"WaveInId"=dword:00000002
+
+[Software\\Microsoft\\ActiveMovie\\devenum\\{33D9A762-90C8-11D0-BD43-00A0C911CE86}\\DD-iPhone2k23 Microphone] 1706393693
+#time=1da516e40e31634
+"CLSID"="{E30629D2-27E5-11CE-875D-00608CB78066}"
+"FilterData"=hex:02,00,00,00,00,00,20,00,00,00,00,00,00,00,00,00
+"FriendlyName"="DD-iPhone2k23 Microphone"
+"WaveInId"=dword:00000001
+
+[Software\\Microsoft\\ActiveMovie\\devenum\\{33D9A762-90C8-11D0-BD43-00A0C911CE86}\\External Microphone] 1706393693
+#time=1da516e40e306da
+"CLSID"="{E30629D2-27E5-11CE-875D-00608CB78066}"
+"FilterData"=hex:02,00,00,00,00,00,20,00,00,00,00,00,00,00,00,00
+"FriendlyName"="External Microphone"
+"WaveInId"=dword:00000000
+
+[Software\\Microsoft\\ActiveMovie\\devenum\\{33D9A762-90C8-11D0-BD43-00A0C911CE86}\\MacBook Pro Microphone] 1706393693
+#time=1da516e40e3356a
+"CLSID"="{E30629D2-27E5-11CE-875D-00608CB78066}"
+"FilterData"=hex:02,00,00,00,00,00,20,00,00,00,00,00,00,00,00,00
+"FriendlyName"="MacBook Pro Microphone"
+"WaveInId"=dword:00000003
+
+[Software\\Microsoft\\ActiveMovie\\devenum\\{33D9A762-90C8-11D0-BD43-00A0C911CE86}\\Microsoft Teams Audio] 1706393693
+#time=1da516e40e3444c
+"CLSID"="{E30629D2-27E5-11CE-875D-00608CB78066}"
+"FilterData"=hex:02,00,00,00,00,00,20,00,00,00,00,00,00,00,00,00
+"FriendlyName"="Microsoft Teams Audio"
+"WaveInId"=dword:00000004
+
+[Software\\Microsoft\\ActiveMovie\\devenum\\{4EFE2452-168A-11D1-BC76-00C04FB9453B}\\CoreAudio MIDI Synth 1] 1706393694
+#time=1da516e413f695c
+"CLSID"="{07B65360-C445-11CE-AFDE-00AA006C14F4}"
+"FilterData"=hex:02,00,00,00,00,00,20,00,01,00,00,00,00,00,00,00,30,70,69,33,\
+  02,00,00,00,00,00,00,00,01,00,00,00,00,00,00,00,00,00,00,00,30,74,79,33,00,\
+  00,00,00,38,00,00,00,48,00,00,00,6d,69,64,73,00,00,10,00,80,00,00,aa,00,38,\
+  9b,71,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00
+"FriendlyName"="CoreAudio MIDI Synth 1"
+"MidiOutId"=dword:00000000
+
+[Software\\Microsoft\\ActiveMovie\\devenum\\{4EFE2452-168A-11D1-BC76-00C04FB9453B}\\Default MidiOut Device] 1706393694
+#time=1da516e413f5f70
+"CLSID"="{07B65360-C445-11CE-AFDE-00AA006C14F4}"
+"FilterData"=hex:02,00,00,00,00,00,80,00,01,00,00,00,00,00,00,00,30,70,69,33,\
+  02,00,00,00,00,00,00,00,01,00,00,00,00,00,00,00,00,00,00,00,30,74,79,33,00,\
+  00,00,00,38,00,00,00,48,00,00,00,6d,69,64,73,00,00,10,00,80,00,00,aa,00,38,\
+  9b,71,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00
+"FriendlyName"="Default MidiOut Device"
+"MidiOutId"=dword:ffffffff
+
+[Software\\Microsoft\\ActiveMovie\\devenum\\{E0F158E1-CB04-11D0-BD4E-00A0C911CE86}\\Default DirectSound Device] 1706393693
+#time=1da516e40e3c1b0
+"CLSID"="{79376820-07D0-11CF-A24D-0020AFD79767}"
+"DSGuid"="{00000000-0000-0000-0000-000000000000}"
+"FilterData"=hex:02,00,00,00,00,00,80,00,01,00,00,00,00,00,00,00,30,70,69,33,\
+  02,00,00,00,00,00,00,00,01,00,00,00,00,00,00,00,00,00,00,00,30,74,79,33,00,\
+  00,00,00,38,00,00,00,48,00,00,00,61,75,64,73,00,00,10,00,80,00,00,aa,00,38,\
+  9b,71,01,00,00,00,00,00,10,00,80,00,00,aa,00,38,9b,71
+"FriendlyName"="Default DirectSound Device"
+
+[Software\\Microsoft\\ActiveMovie\\devenum\\{E0F158E1-CB04-11D0-BD4E-00A0C911CE86}\\Default WaveOut Device] 1706393693
+#time=1da516e40e43e06
+"CLSID"="{E30629D1-27E5-11CE-875D-00608CB78066}"
+"FilterData"=hex:02,00,00,00,00,00,20,00,01,00,00,00,00,00,00,00,30,70,69,33,\
+  02,00,00,00,00,00,00,00,01,00,00,00,00,00,00,00,00,00,00,00,30,74,79,33,00,\
+  00,00,00,38,00,00,00,48,00,00,00,61,75,64,73,00,00,10,00,80,00,00,aa,00,38,\
+  9b,71,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00
+"FriendlyName"="Default WaveOut Device"
+"WaveOutId"=dword:ffffffff
+
+[Software\\Microsoft\\ActiveMovie\\devenum\\{E0F158E1-CB04-11D0-BD4E-00A0C911CE86}\\DirectSound: External Headphones] 1706393693
+#time=1da516e40e3d5ba
+"CLSID"="{79376820-07D0-11CF-A24D-0020AFD79767}"
+"DSGuid"="{3427D989-7410-4AD6-BB32-417CC82009B4}"
+"FilterData"=hex:02,00,00,00,00,00,20,00,01,00,00,00,00,00,00,00,30,70,69,33,\
+  02,00,00,00,00,00,00,00,01,00,00,00,00,00,00,00,00,00,00,00,30,74,79,33,00,\
+  00,00,00,38,00,00,00,48,00,00,00,61,75,64,73,00,00,10,00,80,00,00,aa,00,38,\
+  9b,71,01,00,00,00,00,00,10,00,80,00,00,aa,00,38,9b,71
+"FriendlyName"="DirectSound: External Headphones"
+
+[Software\\Microsoft\\ActiveMovie\\devenum\\{E0F158E1-CB04-11D0-BD4E-00A0C911CE86}\\DirectSound: LG ULTRAWIDE] 1706393693
+#time=1da516e40e40b70
+"CLSID"="{79376820-07D0-11CF-A24D-0020AFD79767}"
+"DSGuid"="{A35B67C7-2C63-4898-B548-3DDC9E35BEC9}"
+"FilterData"=hex:02,00,00,00,00,00,20,00,01,00,00,00,00,00,00,00,30,70,69,33,\
+  02,00,00,00,00,00,00,00,01,00,00,00,00,00,00,00,00,00,00,00,30,74,79,33,00,\
+  00,00,00,38,00,00,00,48,00,00,00,61,75,64,73,00,00,10,00,80,00,00,aa,00,38,\
+  9b,71,01,00,00,00,00,00,10,00,80,00,00,aa,00,38,9b,71
+"FriendlyName"="DirectSound: LG ULTRAWIDE"
+
+[Software\\Microsoft\\ActiveMovie\\devenum\\{E0F158E1-CB04-11D0-BD4E-00A0C911CE86}\\DirectSound: MacBook Pro Speakers] 1706393693
+#time=1da516e40e3fa5e
+"CLSID"="{79376820-07D0-11CF-A24D-0020AFD79767}"
+"DSGuid"="{8CC80B0A-2EF4-4111-995D-E5533C138B5D}"
+"FilterData"=hex:02,00,00,00,00,00,20,00,01,00,00,00,00,00,00,00,30,70,69,33,\
+  02,00,00,00,00,00,00,00,01,00,00,00,00,00,00,00,00,00,00,00,30,74,79,33,00,\
+  00,00,00,38,00,00,00,48,00,00,00,61,75,64,73,00,00,10,00,80,00,00,aa,00,38,\
+  9b,71,01,00,00,00,00,00,10,00,80,00,00,aa,00,38,9b,71
+"FriendlyName"="DirectSound: MacBook Pro Speakers"
+
+[Software\\Microsoft\\ActiveMovie\\devenum\\{E0F158E1-CB04-11D0-BD4E-00A0C911CE86}\\DirectSound: Microsoft Teams Audio] 1706393693
+#time=1da516e40e3e7e4
+"CLSID"="{79376820-07D0-11CF-A24D-0020AFD79767}"
+"DSGuid"="{231C456F-EE31-44C7-96D5-F8EDB8BBF84F}"
+"FilterData"=hex:02,00,00,00,00,00,20,00,01,00,00,00,00,00,00,00,30,70,69,33,\
+  02,00,00,00,00,00,00,00,01,00,00,00,00,00,00,00,00,00,00,00,30,74,79,33,00,\
+  00,00,00,38,00,00,00,48,00,00,00,61,75,64,73,00,00,10,00,80,00,00,aa,00,38,\
+  9b,71,01,00,00,00,00,00,10,00,80,00,00,aa,00,38,9b,71
+"FriendlyName"="DirectSound: Microsoft Teams Audio"
+
+[Software\\Microsoft\\ActiveMovie\\devenum\\{E0F158E1-CB04-11D0-BD4E-00A0C911CE86}\\External Headphones] 1706393693
+#time=1da516e40e44d06
+"CLSID"="{E30629D1-27E5-11CE-875D-00608CB78066}"
+"FilterData"=hex:02,00,00,00,00,00,20,00,01,00,00,00,00,00,00,00,30,70,69,33,\
+  02,00,00,00,00,00,00,00,01,00,00,00,00,00,00,00,00,00,00,00,30,74,79,33,00,\
+  00,00,00,38,00,00,00,48,00,00,00,61,75,64,73,00,00,10,00,80,00,00,aa,00,38,\
+  9b,71,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00
+"FriendlyName"="External Headphones"
+"WaveOutId"=dword:00000000
+
+[Software\\Microsoft\\ActiveMovie\\devenum\\{E0F158E1-CB04-11D0-BD4E-00A0C911CE86}\\LG ULTRAWIDE] 1706393693
+#time=1da516e40e47a42
+"CLSID"="{E30629D1-27E5-11CE-875D-00608CB78066}"
+"FilterData"=hex:02,00,00,00,00,00,20,00,01,00,00,00,00,00,00,00,30,70,69,33,\
+  02,00,00,00,00,00,00,00,01,00,00,00,00,00,00,00,00,00,00,00,30,74,79,33,00,\
+  00,00,00,38,00,00,00,48,00,00,00,61,75,64,73,00,00,10,00,80,00,00,aa,00,38,\
+  9b,71,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00
+"FriendlyName"="LG ULTRAWIDE"
+"WaveOutId"=dword:00000003
+
+[Software\\Microsoft\\ActiveMovie\\devenum\\{E0F158E1-CB04-11D0-BD4E-00A0C911CE86}\\MacBook Pro Speakers] 1706393693
+#time=1da516e40e46c28
+"CLSID"="{E30629D1-27E5-11CE-875D-00608CB78066}"
+"FilterData"=hex:02,00,00,00,00,00,20,00,01,00,00,00,00,00,00,00,30,70,69,33,\
+  02,00,00,00,00,00,00,00,01,00,00,00,00,00,00,00,00,00,00,00,30,74,79,33,00,\
+  00,00,00,38,00,00,00,48,00,00,00,61,75,64,73,00,00,10,00,80,00,00,aa,00,38,\
+  9b,71,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00
+"FriendlyName"="MacBook Pro Speakers"
+"WaveOutId"=dword:00000002
+
+[Software\\Microsoft\\ActiveMovie\\devenum\\{E0F158E1-CB04-11D0-BD4E-00A0C911CE86}\\Microsoft Teams Audio] 1706393693
+#time=1da516e40e45c10
+"CLSID"="{E30629D1-27E5-11CE-875D-00608CB78066}"
+"FilterData"=hex:02,00,00,00,00,00,20,00,01,00,00,00,00,00,00,00,30,70,69,33,\
+  02,00,00,00,00,00,00,00,01,00,00,00,00,00,00,00,00,00,00,00,30,74,79,33,00,\
+  00,00,00,38,00,00,00,48,00,00,00,61,75,64,73,00,00,10,00,80,00,00,aa,00,38,\
+  9b,71,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00
+"FriendlyName"="Microsoft Teams Audio"
+"WaveOutId"=dword:00000001
+
+[Software\\Microsoft\\Internet Explorer\\Main] 1705272886
+#time=1da473cab942e32
+"Search Page"="https://www.google.com"
+"Start Page"="https://www.winehq.org"
+
+[Software\\Microsoft\\Internet Explorer\\Main\\FeatureControl] 1705272883
+#time=1da473caa2807a8
+
+[Software\\Microsoft\\Internet Explorer\\Settings] 1705272886
+#time=1da473cab942fcc
+"Text Color"="0,0,0"
+
+[Software\\Microsoft\\Protected Storage System Provider] 1705272886
+#time=1da473cab974266
+
+[Software\\Microsoft\\SQMClient] 1705272942
+#time=1da473ccd398cda
+"UserId"="{0C1539C7-D828-4DD0-A724-2F3A539927CC}"
+
+[Software\\Microsoft\\SystemCertificates\\CA\\Certificates] 1705272948
+#time=1da473cd095b520
+
+[Software\\Microsoft\\SystemCertificates\\CA\\CRLs] 1705272948
+#time=1da473cd095b692
+
+[Software\\Microsoft\\SystemCertificates\\CA\\CTLs] 1705272948
+#time=1da473cd095b7dc
+
+[Software\\Microsoft\\SystemCertificates\\Disallowed\\Certificates] 1705272948
+#time=1da473cd0ac5078
+
+[Software\\Microsoft\\SystemCertificates\\Disallowed\\CRLs] 1705272948
+#time=1da473cd0ac51cc
+
+[Software\\Microsoft\\SystemCertificates\\Disallowed\\CTLs] 1705272948
+#time=1da473cd0ac5348
+
+[Software\\Microsoft\\SystemCertificates\\My\\Certificates] 1705272948
+#time=1da473cd095bf84
+
+[Software\\Microsoft\\SystemCertificates\\My\\CRLs] 1705272948
+#time=1da473cd095c0d8
+
+[Software\\Microsoft\\SystemCertificates\\My\\CTLs] 1705272948
+#time=1da473cd095c1d2
+
+[Software\\Microsoft\\SystemCertificates\\Root\\Certificates] 1705272948
+#time=1da473cd08b68ae
+
+[Software\\Microsoft\\SystemCertificates\\Root\\CRLs] 1705272948
+#time=1da473cd08b6b60
+
+[Software\\Microsoft\\SystemCertificates\\Root\\CTLs] 1705272948
+#time=1da473cd08b6c32
+
+[Software\\Microsoft\\SystemCertificates\\Trust\\Certificates] 1705272948
+#time=1da473cd095cb0a
+
+[Software\\Microsoft\\SystemCertificates\\Trust\\CRLs] 1705272948
+#time=1da473cd095cc36
+
+[Software\\Microsoft\\SystemCertificates\\Trust\\CTLs] 1705272948
+#time=1da473cd095cd6c
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\Advanced] 1705278070
+#time=1da4748bd9e388c
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\ComDlg32\\LastVisitedMRU] 1705278077
+#time=1da4748c1d9e5fe
+"a"=hex:77,00,69,00,6e,00,65,00,63,00,66,00,67,00,2e,00,65,00,78,00,65,00,00,\
+  00,43,00,3a,00,5c,00,50,00,72,00,6f,00,67,00,72,00,61,00,6d,00,20,00,46,00,\
+  69,00,6c,00,65,00,73,00,20,00,28,00,78,00,38,00,36,00,29,00,5c,00,53,00,74,\
+  00,65,00,61,00,6d,00,5c,00,73,00,74,00,65,00,61,00,6d,00,61,00,70,00,70,00,\
+  73,00,5c,00,63,00,6f,00,6d,00,6d,00,6f,00,6e,00,5c,00,43,00,69,00,74,00,69,\
+  00,65,00,73,00,20,00,53,00,6b,00,79,00,6c,00,69,00,6e,00,65,00,73,00,20,00,\
+  49,00,49,00,00,00
+"MRUList"="a"
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\Shell Folders] 1705272885
+#time=1da473cab455c30
+"Administrative Tools"="C:\\users\\crossover\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Administrative Tools"
+"AppData"="C:\\users\\crossover\\AppData\\Roaming"
+"Cache"="C:\\users\\crossover\\AppData\\Local\\Microsoft\\Windows\\INetCache"
+"Cookies"="C:\\users\\crossover\\AppData\\Local\\Microsoft\\Windows\\INetCookies"
+"Desktop"="C:\\users\\crossover\\Desktop"
+"Favorites"="C:\\users\\crossover\\Favorites"
+"Fonts"="C:\\windows\\Fonts"
+"History"="C:\\users\\crossover\\AppData\\Local\\Microsoft\\Windows\\History"
+"Local AppData"="C:\\users\\crossover\\AppData\\Local"
+"My Music"="C:\\users\\crossover\\Music"
+"My Pictures"="C:\\users\\crossover\\Pictures"
+"My Videos"="C:\\users\\crossover\\Videos"
+"NetHood"="C:\\users\\crossover\\AppData\\Roaming\\Microsoft\\Windows\\Network Shortcuts"
+"Personal"="C:\\users\\crossover\\Documents"
+"PrintHood"="C:\\users\\crossover\\AppData\\Roaming\\Microsoft\\Windows\\Printer Shortcuts"
+"Programs"="C:\\users\\crossover\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs"
+"Recent"="C:\\users\\crossover\\AppData\\Roaming\\Microsoft\\Windows\\Recent"
+"SendTo"="C:\\users\\crossover\\AppData\\Roaming\\Microsoft\\Windows\\SendTo"
+"Start Menu"="C:\\users\\crossover\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu"
+"StartUp"="C:\\users\\crossover\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\StartUp"
+"Templates"="C:\\users\\crossover\\AppData\\Roaming\\Microsoft\\Windows\\Templates"
+"{374DE290-123F-4565-9164-39C4925E467B}"="C:\\users\\crossover\\Downloads"
+"{4C5C32FF-BB9D-43B0-B5B4-2D72E54EAAA4}"="C:\\users\\crossover\\Saved Games"
+"{56784854-C6CB-462B-8169-88E350ACB882}"="C:\\users\\crossover\\Contacts"
+"{7D1D3A04-DEBB-4115-95CF-2F29DA2920DA}"="C:\\users\\crossover\\Searches"
+"{A520A1A4-1780-4FF6-BD18-167343C5AF16}"="C:\\users\\crossover\\AppData\\LocalLow"
+"{BFB9D5E0-C6A9-404C-B2B2-AE6DB6AF4968}"="C:\\users\\crossover\\Links"
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\User Shell Folders] 1705272885
+#time=1da473cab455a3c
+"Administrative Tools"=str(2):"%USERPROFILE%\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Administrative Tools"
+"AppData"=str(2):"%USERPROFILE%\\AppData\\Roaming"
+"Cache"=str(2):"%USERPROFILE%\\AppData\\Local\\Microsoft\\Windows\\INetCache"
+"Cookies"=str(2):"%USERPROFILE%\\AppData\\Local\\Microsoft\\Windows\\INetCookies"
+"Desktop"=str(2):"%USERPROFILE%\\Desktop"
+"Favorites"=str(2):"%USERPROFILE%\\Favorites"
+"Fonts"=str(2):"C:\\windows\\Fonts"
+"History"=str(2):"%USERPROFILE%\\AppData\\Local\\Microsoft\\Windows\\History"
+"Local AppData"=str(2):"%USERPROFILE%\\AppData\\Local"
+"My Music"=str(2):"%USERPROFILE%\\Music"
+"My Pictures"=str(2):"%USERPROFILE%\\Pictures"
+"My Videos"=str(2):"%USERPROFILE%\\Videos"
+"NetHood"=str(2):"%USERPROFILE%\\AppData\\Roaming\\Microsoft\\Windows\\Network Shortcuts"
+"Personal"=str(2):"%USERPROFILE%\\Documents"
+"PrintHood"=str(2):"%USERPROFILE%\\AppData\\Roaming\\Microsoft\\Windows\\Printer Shortcuts"
+"Programs"=str(2):"%USERPROFILE%\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs"
+"Recent"=str(2):"%USERPROFILE%\\AppData\\Roaming\\Microsoft\\Windows\\Recent"
+"SendTo"=str(2):"%USERPROFILE%\\AppData\\Roaming\\Microsoft\\Windows\\SendTo"
+"Start Menu"=str(2):"%USERPROFILE%\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu"
+"StartUp"=str(2):"%USERPROFILE%\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\StartUp"
+"Templates"=str(2):"%USERPROFILE%\\AppData\\Roaming\\Microsoft\\Windows\\Templates"
+"{374DE290-123F-4565-9164-39C4925E467B}"=str(2):"%USERPROFILE%\\Downloads"
+"{4C5C32FF-BB9D-43B0-B5B4-2D72E54EAAA4}"=str(2):"%USERPROFILE%\\Saved Games"
+"{56784854-C6CB-462B-8169-88E350ACB882}"=str(2):"%USERPROFILE%\\Contacts"
+"{7D1D3A04-DEBB-4115-95CF-2F29DA2920DA}"=str(2):"%USERPROFILE%\\Searches"
+"{A520A1A4-1780-4FF6-BD18-167343C5AF16}"=str(2):"%USERPROFILE%\\AppData\\LocalLow"
+"{BFB9D5E0-C6A9-404C-B2B2-AE6DB6AF4968}"=str(2):"%USERPROFILE%\\Links"
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings] 1705274871
+#time=1da47414a9d750c
+"ProxyEnable"=dword:00000000
+"User Agent"="Mozilla/4.0 (compatible; MSIE 8.0; Win32)"
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\ZoneMap] 1705272886
+#time=1da473cab6f67a0
+@=""
+"IntranetName"=dword:00000001
+"ProxyByPass"=dword:00000001
+"UNCAsIntranet"=dword:00000001
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\ZoneMap\\Domains] 1705272886
+#time=1da473cab6f6674
+@=""
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\ZoneMap\\ProtocolDefaults] 1705272886
+#time=1da473cab6f650c
+@=""
+"@ivt"=dword:00000001
+"file"=dword:00000003
+"ftp"=dword:00000003
+"http"=dword:00000003
+"https"=dword:00000003
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\ZoneMap\\Ranges] 1705272886
+#time=1da473cab6f67dc
+@=""
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Zones] 1705272886
+#time=1da473cab708b62
+@=""
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Zones\\0] 1705272886
+#time=1da473cab6fb2b4
+@=""
+"1001"=dword:00000000
+"1004"=dword:00000000
+"1200"=dword:00000000
+"1201"=dword:00000001
+"1400"=dword:00000000
+"1402"=dword:00000000
+"1405"=dword:00000000
+"1406"=dword:00000000
+"1407"=dword:00000000
+"1601"=dword:00000000
+"1604"=dword:00000000
+"1605"=dword:00000000
+"1606"=dword:00000000
+"1607"=dword:00000000
+"1608"=dword:00000000
+"1609"=dword:00000001
+"1800"=dword:00000000
+"1802"=dword:00000000
+"1803"=dword:00000000
+"1804"=dword:00000000
+"1805"=dword:00000000
+"1A00"=dword:00000000
+"1A02"=dword:00000000
+"1A03"=dword:00000000
+"1A04"=dword:00000000
+"1A05"=dword:00000000
+"1A06"=dword:00000000
+"1A10"=dword:00000000
+"1C00"=dword:00020000
+"1E05"=dword:00030000
+"CurrentLevel"=dword:00000000
+"Description"="Your computer"
+"DisplayName"="My Computer"
+"Flags"=dword:00000021
+"Icon"="explorer.exe#0100"
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Zones\\1] 1705272886
+#time=1da473cab6ff6f2
+@=""
+"1001"=dword:00000001
+"1004"=dword:00000003
+"1200"=dword:00000000
+"1201"=dword:00000003
+"1400"=dword:00000000
+"1402"=dword:00000000
+"1405"=dword:00000000
+"1406"=dword:00000001
+"1407"=dword:00000000
+"1601"=dword:00000000
+"1604"=dword:00000000
+"1605"=dword:00000000
+"1606"=dword:00000000
+"1607"=dword:00000000
+"1608"=dword:00000000
+"1609"=dword:00000001
+"1800"=dword:00000001
+"1802"=dword:00000000
+"1803"=dword:00000000
+"1804"=dword:00000001
+"1805"=dword:00000000
+"1A00"=dword:00020000
+"1A02"=dword:00000000
+"1A03"=dword:00000000
+"1A04"=dword:00000000
+"1A05"=dword:00000000
+"1A06"=dword:00000000
+"1A10"=dword:00000000
+"1C00"=dword:00020000
+"1E05"=dword:00020000
+"CurrentLevel"=dword:00010500
+"Description"="This zone contains all Web sites that are on your organization's intranet."
+"DisplayName"="Local intranet"
+"Flags"=dword:000000db
+"Icon"="shell32.dll#0018"
+"MinLevel"=dword:00010000
+"RecommendedLevel"=dword:00010500
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Zones\\2] 1705272886
+#time=1da473cab703d60
+@=""
+"1001"=dword:00000000
+"1004"=dword:00000001
+"1200"=dword:00000000
+"1201"=dword:00000001
+"1400"=dword:00000000
+"1402"=dword:00000000
+"1405"=dword:00000000
+"1406"=dword:00000000
+"1407"=dword:00000000
+"1601"=dword:00000000
+"1604"=dword:00000000
+"1605"=dword:00000000
+"1606"=dword:00000000
+"1607"=dword:00000000
+"1608"=dword:00000000
+"1609"=dword:00000001
+"1800"=dword:00000000
+"1802"=dword:00000000
+"1803"=dword:00000000
+"1804"=dword:00000000
+"1805"=dword:00000000
+"1A00"=dword:00000000
+"1A02"=dword:00000000
+"1A03"=dword:00000000
+"1A04"=dword:00000000
+"1A05"=dword:00000000
+"1A06"=dword:00000000
+"1A10"=dword:00000000
+"1C00"=dword:00030000
+"1E05"=dword:00030000
+"CurrentLevel"=dword:00010000
+"Description"="This zone contains Web sites that you trust not to damage your computer or data."
+"DisplayName"="Trusted sites"
+"Flags"=dword:00000047
+"Icon"="inetcpl.cpl#00004480"
+"MinLevel"=dword:00010000
+"RecommendedLevel"=dword:00010000
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Zones\\3] 1705272886
+#time=1da473cab7089fa
+@=""
+"1001"=dword:00000001
+"1004"=dword:00000003
+"1200"=dword:00000000
+"1201"=dword:00000003
+"1400"=dword:00000000
+"1402"=dword:00000000
+"1405"=dword:00000000
+"1406"=dword:00000003
+"1407"=dword:00000000
+"1601"=dword:00000001
+"1604"=dword:00000000
+"1605"=dword:00000000
+"1606"=dword:00000000
+"1607"=dword:00000000
+"1608"=dword:00000000
+"1609"=dword:00000001
+"1800"=dword:00000001
+"1802"=dword:00000000
+"1803"=dword:00000000
+"1804"=dword:00000001
+"1805"=dword:00000001
+"1A00"=dword:00020000
+"1A02"=dword:00000000
+"1A03"=dword:00000000
+"1A04"=dword:00000003
+"1A05"=dword:00000001
+"1A06"=dword:00000000
+"1A10"=dword:00000001
+"1C00"=dword:00010000
+"1E05"=dword:00020000
+"CurrentLevel"=dword:00011000
+"Description"="This zone contains all Web sites you haven't placed in other zones"
+"DisplayName"="Internet"
+"Flags"=dword:00000001
+"Icon"="inetcpl.cpl#001313"
+"MinLevel"=dword:00011000
+"RecommendedLevel"=dword:00011000
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Zones\\4] 1705272886
+#time=1da473cab70d374
+@=""
+"1001"=dword:00000003
+"1004"=dword:00000003
+"1200"=dword:00000003
+"1201"=dword:00000003
+"1400"=dword:00000003
+"1402"=dword:00000003
+"1405"=dword:00000003
+"1406"=dword:00000003
+"1407"=dword:00000003
+"1601"=dword:00000001
+"1604"=dword:00000001
+"1605"=dword:00000000
+"1606"=dword:00000003
+"1607"=dword:00000003
+"1608"=dword:00000003
+"1609"=dword:00000001
+"1800"=dword:00000003
+"1802"=dword:00000001
+"1803"=dword:00000003
+"1804"=dword:00000003
+"1805"=dword:00000001
+"1A00"=dword:00010000
+"1A02"=dword:00000003
+"1A03"=dword:00000003
+"1A04"=dword:00000003
+"1A05"=dword:00000003
+"1A06"=dword:00000003
+"1A10"=dword:00000003
+"1C00"=dword:00000000
+"1E05"=dword:00010000
+"CurrentLevel"=dword:00012000
+"Description"="This zone contains Web sites that could potentially damage your computer or data."
+"DisplayName"="Restricted sites"
+"Flags"=dword:00000003
+"Icon"="inetcpl.cpl#00004481"
+"MinLevel"=dword:00012000
+"RecommendedLevel"=dword:00012000
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Run] 1705274831
+#time=1da474132e5e9da
+"Steam"="\"C:\\Program Files (x86)\\Steam\\steam.exe\" -silent"
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\ThemeManager] 1705272886
+#time=1da473cabd22b06
+"ColorName"="Blue"
+"DllName"="C:\\windows\\resources\\themes\\light\\light.msstyles"
+"FlatMenu"=dword:00000000
+"GradientCaption"=dword:00000001
+"IconTitleFont"=hex:f5,ff,ff,ff,00,00,00,00,00,00,00,00,00,00,00,00,90,01,00,\
+  00,00,00,00,00,00,00,00,22,54,00,61,00,68,00,6f,00,6d,00,61,00,00,00,6c,00,\
+  20,00,44,00,6c,00,67,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00
+"LoadedBefore"="1"
+"NonClientMetrics"=hex:f8,01,00,00,01,00,00,00,10,00,00,00,10,00,00,00,12,00,\
+  00,00,12,00,00,00,f5,ff,ff,ff,00,00,00,00,00,00,00,00,00,00,00,00,bc,02,00,\
+  00,00,00,00,00,00,00,00,22,54,00,61,00,68,00,6f,00,6d,00,61,00,00,00,6c,00,\
+  20,00,44,00,6c,00,67,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,0f,00,\
+  00,00,0f,00,00,00,f5,ff,ff,ff,00,00,00,00,00,00,00,00,00,00,00,00,90,01,00,\
+  00,00,00,00,00,00,00,00,22,54,00,61,00,68,00,6f,00,6d,00,61,00,00,00,6c,00,\
+  20,00,44,00,6c,00,67,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,12,00,\
+  00,00,12,00,00,00,f5,ff,ff,ff,00,00,00,00,00,00,00,00,00,00,00,00,90,01,00,\
+  00,00,00,00,00,00,00,00,22,54,00,61,00,68,00,6f,00,6d,00,61,00,00,00,6c,00,\
+  20,00,44,00,6c,00,67,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,f5,ff,\
+  ff,ff,00,00,00,00,00,00,00,00,00,00,00,00,90,01,00,00,00,00,00,00,00,00,00,\
+  22,54,00,61,00,68,00,6f,00,6d,00,61,00,00,00,6c,00,20,00,44,00,6c,00,67,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,f5,ff,ff,ff,00,00,00,00,00,00,\
+  00,00,00,00,00,00,90,01,00,00,00,00,00,00,00,00,00,22,54,00,61,00,68,00,6f,\
+  00,6d,00,61,00,00,00,6c,00,20,00,44,00,6c,00,67,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00
+"SizeName"="NormalSize"
+"ThemeActive"="1"
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\ThemeManager\\Control Panel\\Colors] 1705272886
+#time=1da473cabd227c8
+"ActiveBorder"="212 208 200"
+"ActiveTitle"="10 36 106"
+"AppWorkSpace"="128 128 128"
+"Background"="58 110 165"
+"ButtonAlternateFace"="181 181 181"
+"ButtonDkShadow"="64 64 64"
+"ButtonFace"="212 208 200"
+"ButtonHilight"="255 255 255"
+"ButtonLight"="212 208 200"
+"ButtonShadow"="128 128 128"
+"ButtonText"="0 0 0"
+"GradientActiveTitle"="166 202 240"
+"GradientInactiveTitle"="192 192 192"
+"GrayText"="128 128 128"
+"Hilight"="10 36 106"
+"HilightText"="255 255 255"
+"HotTrackingColor"="0 0 200"
+"InactiveBorder"="212 208 200"
+"InactiveTitle"="128 128 128"
+"InactiveTitleText"="212 208 200"
+"InfoText"="0 0 0"
+"InfoWindow"="255 255 225"
+"Menu"="212 208 200"
+"MenuBar"="212 208 200"
+"MenuHilight"="10 36 106"
+"MenuText"="0 0 0"
+"Scrollbar"="212 208 200"
+"TitleText"="255 255 255"
+"Window"="255 255 255"
+"WindowFrame"="0 0 0"
+"WindowText"="0 0 0"
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Wintrust\\Trust Providers\\Software Publishing] 1705272948
+#time=1da473cd0887b6c
+"State"=dword:00023c00
+
+[Software\\Microsoft\\Windows\\Shell\\Associations\\UrlAssociations\\ftp\\UserChoice] 1705272886
+#time=1da473cab9763c2
+"ProgId"="ftp"
+
+[Software\\Microsoft\\Windows\\Shell\\Associations\\UrlAssociations\\http\\UserChoice] 1705272886
+#time=1da473cab976a16
+"ProgId"="http"
+
+[Software\\Microsoft\\Windows\\Shell\\Associations\\UrlAssociations\\https\\UserChoice] 1705272886
+#time=1da473cab9770ce
+"ProgId"="https"
+
+[Software\\Microsoft\\Windows NT\\CurrentVersion\\Devices] 1705605760
+#time=1da4a43b42b0e08
+"Afandi_HP_Color_LaserJet_MFP_M281fdw__E11DF3_"="wineps.drv,CUPS:Afandi_HP_Color_LaserJet_MFP_M281fdw__E11DF3_"
+"Afandi_HP_Color_LaserJet_MFP_M281fdw__E11DF3____Fax"="wineps.drv,CUPS:Afandi_HP_Color_LaserJet_MFP_M281fdw__E11DF3____Fax"
+"Canon_TS5000_series"="wineps.drv,CUPS:Canon_TS5000_series"
+"HP_Color_LaserJet_MFP_M283fdn__C23867__2"="wineps.drv,CUPS:HP_Color_LaserJet_MFP_M283fdn__C23867__2"
+"HP_Color_LaserJet_MFP_M283fdn__C23867____Fax"="wineps.drv,CUPS:HP_Color_LaserJet_MFP_M283fdn__C23867____Fax"
+"Kyocera_TASKalfa_3554ci"="wineps.drv,CUPS:Kyocera_TASKalfa_3554ci"
+
+[Software\\Microsoft\\Windows NT\\CurrentVersion\\PrinterPorts] 1705605760
+#time=1da4a43b42b0eee
+"Afandi_HP_Color_LaserJet_MFP_M281fdw__E11DF3_"="wineps.drv,CUPS:Afandi_HP_Color_LaserJet_MFP_M281fdw__E11DF3_,15,45"
+"Afandi_HP_Color_LaserJet_MFP_M281fdw__E11DF3____Fax"="wineps.drv,CUPS:Afandi_HP_Color_LaserJet_MFP_M281fdw__E11DF3____Fax,15,45"
+"Canon_TS5000_series"="wineps.drv,CUPS:Canon_TS5000_series,15,45"
+"HP_Color_LaserJet_MFP_M283fdn__C23867__2"="wineps.drv,CUPS:HP_Color_LaserJet_MFP_M283fdn__C23867__2,15,45"
+"HP_Color_LaserJet_MFP_M283fdn__C23867____Fax"="wineps.drv,CUPS:HP_Color_LaserJet_MFP_M283fdn__C23867____Fax,15,45"
+"Kyocera_TASKalfa_3554ci"="wineps.drv,CUPS:Kyocera_TASKalfa_3554ci,15,45"
+
+[Software\\Microsoft\\Windows NT\\CurrentVersion\\Windows] 1705605760
+#time=1da4a43b42accae
+"device"="Afandi_HP_Color_LaserJet_MFP_M281fdw__E11DF3_,wineps.drv,CUPS:Afandi_HP_Color_LaserJet_MFP_M281fdw__E11DF3_"
+
+[Software\\Microsoft\\Windows NT\\CurrentVersion\\Winlogon] 1705272886
+#time=1da473cab95fe6a
+
+[Software\\Paradox Interactive\\Paradox Launcher v2] 1705277893
+#time=1da4748543922c6
+"installed"=dword:00000001
+"LauncherInstallation"="C:\\Program Files\\Paradox Interactive\\launcher\\"
+"LauncherPathFolder"="C:\\users\\crossover\\AppData\\Local\\Paradox Interactive\\"
+"TempFolder"="C:\\Program Files\\Paradox Interactive\\launcher\\temp\\"
+
+[Software\\Valve\\Steam] 1707348868
+#time=1da5a1e31297efa
+"AlreadyRetriedOfflineMode"=dword:00000000
+"AutoLoginUser"="domdorn"
+"Language"="english"
+"Rate"="30000"
+"Restart"=dword:00000000
+"RunningAppID"=dword:00000000
+"SourceModInstallPath"="C:\\Program Files (x86)\\Steam\\steamapps\\sourcemods"
+"StartupModeTmpIsValid"=dword:00000000
+"SteamExe"="c:/program files (x86)/steam/steam.exe"
+"SteamPath"="c:/program files (x86)/steam"
+"SuppressAutoRun"=dword:00000000
+
+[Software\\Valve\\Steam\\ActiveProcess] 1706912022
+#time=1da562514fa0bac
+"ActiveUser"=dword:054b4464
+"pid"=dword:000000bc
+"SteamClientDll"="C:\\Program Files (x86)\\Steam\\steamclient.dll"
+"SteamClientDll64"="C:\\Program Files (x86)\\Steam\\steamclient64.dll"
+"Universe"="Public"
+
+[Software\\Valve\\Steam\\Apps\\228980] 1705339904
+#time=1da47d8b5c9508e
+"Installed"=dword:00000001
+"Running"=dword:00000000
+"Updating"=dword:00000000
+
+[Software\\Valve\\Steam\\Apps\\949230] 1707348868
+#time=1da5a1e31298f26
+"Installed"=dword:00000001
+"Name"="Cities: Skylines II"
+"Running"=dword:00000000
+"Updating"=dword:00000000
+
+[Software\\Valve\\Steam\\steamglobal] 1705274858
+#time=1da474143199496
+"Language"="english"
+
+[Software\\Valve\\Steam\\Users\\88818788\\friends\\103582791462029731] 1705274906
+#time=1da47415fa8ebac
+
+[Software\\Wine\\AppDefaults\\Cities2.exe\\DllOverrides] 1706468769
+#time=1da521d0da8cc1e
+"version"="native,builtin"
+"winhttp"="native,builtin"
+
+[Software\\Wine\\AppDefaults\\Cities2.exe\\FileOpenAssociations] 1706040727
+#time=1da4e3870564816
+"Enable"="Y"
+
+[Software\\Wine\\Debug] 1705272886
+#time=1da473cab968448
+"RelayExclude"="ntdll.RtlEnterCriticalSection;ntdll.RtlTryEnterCriticalSection;ntdll.RtlLeaveCriticalSection;kernel32.48;kernel32.49;kernel32.94;kernel32.95;kernel32.96;kernel32.97;kernel32.98;kernel32.TlsGetValue;kernel32.TlsSetValue;kernel32.FlsGetValue;kernel32.FlsSetValue;kernel32.SetLastError"
+"RelayFromExclude"="winex11.drv;winemac.drv;user32;gdi32;advapi32;kernel32"
+
+[Software\\Wine\\DirectInput\\Joysticks] 1706482555
+#time=1da523d26d403c8
+
+[Software\\Wine\\DllOverrides] 1705274834
+#time=1da474134b87138
+"*gameoverlayrenderer"=""
+"*mscoree"="native"
+
+[Software\\Wine\\Drivers\\winecoreaudio.drv\\devices\\0,103] 1706465556
+#time=1da5215926c374a
+"guid"=hex:2a,9a,45,9b,30,ff,52,49,a2,33,c5,a6,64,05,89,d8
+
+[Software\\Wine\\Drivers\\winecoreaudio.drv\\devices\\0,104] 1705339902
+#time=1da47d8b424768c
+"guid"=hex:07,b8,6c,af,34,08,08,4b,8b,77,22,72,9e,59,59,b2
+
+[Software\\Wine\\Drivers\\winecoreaudio.drv\\devices\\0,105] 1706390674
+#time=1da5167395c3f82
+"guid"=hex:6f,45,1c,23,31,ee,c7,44,96,d5,f8,ed,b8,bb,f8,4f
+
+[Software\\Wine\\Drivers\\winecoreaudio.drv\\devices\\0,107] 1705274852
+#time=1da47413fc2ec8e
+"guid"=hex:11,61,5d,b3,90,f4,da,40,8a,eb,e0,28,37,ae,1c,d9
+
+[Software\\Wine\\Drivers\\winecoreaudio.drv\\devices\\0,108] 1706476914
+#time=1da5230044e0c3e
+"guid"=hex:ff,27,0d,80,f3,99,42,42,8b,d8,ca,35,f6,f1,62,3f
+
+[Software\\Wine\\Drivers\\winecoreaudio.drv\\devices\\0,113] 1705605761
+#time=1da4a43b4afe84e
+"guid"=hex:04,08,2d,d4,e9,6d,eb,44,99,ba,0c,37,ff,11,ee,7d
+
+[Software\\Wine\\Drivers\\winecoreaudio.drv\\devices\\0,117] 1705438874
+#time=1da48bf2413ccf4
+"guid"=hex:a8,55,d2,fb,37,39,ad,48,85,84,01,f1,bd,bd,a8,74
+
+[Software\\Wine\\Drivers\\winecoreaudio.drv\\devices\\0,118] 1706521881
+#time=1da5298b6d2294a
+"guid"=hex:06,c8,83,fe,9d,5b,3a,40,9b,4b,ca,51,1f,e9,f6,b4
+
+[Software\\Wine\\Drivers\\winecoreaudio.drv\\devices\\0,119] 1705277897
+#time=1da47485698cf9e
+"guid"=hex:d2,a3,f3,9f,3e,3f,88,4b,bd,90,63,a3,9e,1a,cc,05
+
+[Software\\Wine\\Drivers\\winecoreaudio.drv\\devices\\0,120] 1706465556
+#time=1da5215926c3e8e
+"guid"=hex:c1,52,b6,c8,be,7f,73,49,ac,7b,56,e4,1e,cd,f5,01
+
+[Software\\Wine\\Drivers\\winecoreaudio.drv\\devices\\0,126] 1705274852
+#time=1da47413fc2f9ea
+"guid"=hex:9e,ba,a0,a5,6f,eb,0a,46,89,5f,6c,53,48,2c,54,c3
+
+[Software\\Wine\\Drivers\\winecoreaudio.drv\\devices\\0,129] 1705339902
+#time=1da47d8b4246b06
+"guid"=hex:11,0c,88,2c,8d,f7,48,4f,b3,86,95,10,e3,e1,2c,eb
+
+[Software\\Wine\\Drivers\\winecoreaudio.drv\\devices\\0,130] 1706390674
+#time=1da5167395c37bc
+"guid"=hex:c7,67,5b,a3,63,2c,98,48,b5,48,3d,dc,9e,35,be,c9
+
+[Software\\Wine\\Drivers\\winecoreaudio.drv\\devices\\0,133] 1706521881
+#time=1da5298b6d22d78
+"guid"=hex:02,42,bb,02,2a,c3,d8,4d,ba,cd,44,75,2d,79,d3,41
+
+[Software\\Wine\\Drivers\\winecoreaudio.drv\\devices\\0,134] 1705438874
+#time=1da48bf2413d0be
+"guid"=hex:33,99,1e,98,cb,15,9a,41,9f,06,7e,69,f8,e9,31,a7
+
+[Software\\Wine\\Drivers\\winecoreaudio.drv\\devices\\0,58] 1706465556
+#time=1da5215926c324a
+"guid"=hex:2a,f8,48,29,2d,12,73,4a,9b,d2,fd,55,27,97,ff,ba
+
+[Software\\Wine\\Drivers\\winecoreaudio.drv\\devices\\0,76] 1705274852
+#time=1da47413fc2f576
+"guid"=hex:42,26,ca,0f,a0,fd,fd,4b,94,57,18,ab,8a,d6,38,69
+
+[Software\\Wine\\Drivers\\winecoreaudio.drv\\devices\\0,81] 1706390674
+#time=1da5167395c3db6
+"guid"=hex:0a,0b,c8,8c,f4,2e,11,41,99,5d,e5,53,3c,13,8b,5d
+
+[Software\\Wine\\Drivers\\winecoreaudio.drv\\devices\\0,88] 1705438874
+#time=1da48bf2413d6b8
+"guid"=hex:89,d9,27,34,10,74,d6,4a,bb,32,41,7c,c8,20,09,b4
+
+[Software\\Wine\\Drivers\\winecoreaudio.drv\\devices\\0,92] 1705274852
+#time=1da47413fc2e266
+"guid"=hex:a1,68,76,c9,b5,4b,6b,4a,8a,96,eb,66,ad,9d,43,68
+
+[Software\\Wine\\Drivers\\winecoreaudio.drv\\devices\\0,93] 1706521881
+#time=1da5298b6d2335e
+"guid"=hex:f5,36,4d,e1,33,be,e9,44,b5,67,03,76,e1,45,7c,10
+
+[Software\\Wine\\Drivers\\winecoreaudio.drv\\devices\\0,96] 1706465556
+#time=1da5215926c3aba
+"guid"=hex:08,fd,43,d2,dc,ef,7e,46,90,e3,2f,05,9f,b4,dc,f3
+
+[Software\\Wine\\Drivers\\winecoreaudio.drv\\devices\\1,100] 1706390674
+#time=1da5167395d4904
+"guid"=hex:90,3a,1e,a9,41,50,e5,4a,a9,b4,00,78,b2,0d,65,1f
+
+[Software\\Wine\\Drivers\\winecoreaudio.drv\\devices\\1,103] 1706476914
+#time=1da5230044efd1a
+"guid"=hex:80,10,e6,f9,70,0d,53,43,83,7c,5b,34,1a,71,1f,74
+
+[Software\\Wine\\Drivers\\winecoreaudio.drv\\devices\\1,104] 1705339902
+#time=1da47d8b42590d0
+"guid"=hex:43,69,63,d6,60,ac,d4,47,b1,ed,52,d4,94,d9,ad,69
+
+[Software\\Wine\\Drivers\\winecoreaudio.drv\\devices\\1,105] 1706390674
+#time=1da5167395d4e0e
+"guid"=hex:71,3f,0a,d8,d2,01,38,42,88,90,e9,cc,3d,b0,31,63
+
+[Software\\Wine\\Drivers\\winecoreaudio.drv\\devices\\1,108] 1706476914
+#time=1da5230044eff04
+"guid"=hex:c6,03,b5,11,6b,7e,d7,4f,90,b8,f6,8a,87,50,8e,59
+
+[Software\\Wine\\Drivers\\winecoreaudio.drv\\devices\\1,110] 1706465556
+#time=1da5215926dba3e
+"guid"=hex:a8,2b,e6,c2,4e,94,7f,40,b8,18,32,6f,d3,72,1a,e4
+
+[Software\\Wine\\Drivers\\winecoreaudio.drv\\devices\\1,113] 1705438874
+#time=1da48bf24151cc6
+"guid"=hex:d3,80,03,1e,9f,ba,7d,44,a1,d9,4e,aa,24,a3,5a,6b
+
+[Software\\Wine\\Drivers\\winecoreaudio.drv\\devices\\1,114] 1705274852
+#time=1da47413fc5f80c
+"guid"=hex:76,3e,32,d4,a5,ac,2a,42,bf,4e,70,75,aa,92,01,a3
+
+[Software\\Wine\\Drivers\\winecoreaudio.drv\\devices\\1,115] 1706465556
+#time=1da5215926db782
+"guid"=hex:74,29,be,48,81,9f,e2,40,a4,87,e7,2c,03,e9,05,44
+
+[Software\\Wine\\Drivers\\winecoreaudio.drv\\devices\\1,119] 1705277897
+#time=1da47485699c692
+"guid"=hex:13,7a,04,63,6e,7c,5b,44,93,a1,c3,a1,59,a7,e3,37
+
+[Software\\Wine\\Drivers\\winecoreaudio.drv\\devices\\1,120] 1706465556
+#time=1da5215926dbd54
+"guid"=hex:eb,5f,0e,d7,43,0f,4d,4c,b1,ed,7e,18,cb,d6,7b,97
+
+[Software\\Wine\\Drivers\\winecoreaudio.drv\\devices\\1,124] 1706307967
+#time=1da50a6a8335682
+"guid"=hex:f7,00,ef,92,d9,39,c8,46,ba,75,55,d5,2d,4e,fa,70
+
+[Software\\Wine\\Drivers\\winecoreaudio.drv\\devices\\1,125] 1706565959
+#time=1da52ff57565448
+"guid"=hex:50,54,a2,fa,42,a8,34,47,b6,72,e5,a6,34,20,b8,7d
+
+[Software\\Wine\\Drivers\\winecoreaudio.drv\\devices\\1,126] 1705274852
+#time=1da47413fc5fe42
+"guid"=hex:89,6a,17,76,e0,bf,09,4c,9c,b3,9a,57,22,f3,4a,c0
+
+[Software\\Wine\\Drivers\\winecoreaudio.drv\\devices\\1,128] 1705605761
+#time=1da4a43b4b0c070
+"guid"=hex:ed,7b,07,39,92,4c,41,4e,91,22,8d,56,3b,bf,78,05
+
+[Software\\Wine\\Drivers\\winecoreaudio.drv\\devices\\1,132] 1705438874
+#time=1da48bf241517a8
+"guid"=hex:88,b0,37,ac,f2,36,b9,44,a1,9d,fa,08,7c,ff,68,eb
+
+[Software\\Wine\\Drivers\\winecoreaudio.drv\\devices\\1,133] 1706476914
+#time=1da5230044ef978
+"guid"=hex:77,7c,94,a6,db,1e,1a,47,a4,4a,80,25,12,f5,14,59
+
+[Software\\Wine\\Drivers\\winecoreaudio.drv\\devices\\1,140] 1706521881
+#time=1da5298b6d3b4ea
+"guid"=hex:a0,97,dc,45,b6,b4,cf,4d,a8,ec,d2,4c,b9,05,41,b8
+
+[Software\\Wine\\Drivers\\winecoreaudio.drv\\devices\\1,144] 1705276610
+#time=1da4745571a90f4
+"guid"=hex:e1,c1,c9,c5,bf,09,6f,4f,9b,87,39,ec,bd,67,12,27
+
+[Software\\Wine\\Drivers\\winecoreaudio.drv\\devices\\1,145] 1706390674
+#time=1da5167395d43be
+"guid"=hex:65,3f,e3,5b,f6,7b,cc,45,8d,1e,42,c1,2f,37,14,2d
+
+[Software\\Wine\\Drivers\\winecoreaudio.drv\\devices\\1,54] 1706390674
+#time=1da5167395d4684
+"guid"=hex:50,29,f2,5c,35,bf,c0,4d,8a,52,ff,97,58,83,c7,40
+
+[Software\\Wine\\Drivers\\winecoreaudio.drv\\devices\\1,83] 1705274852
+#time=1da47413fc5fb2c
+"guid"=hex:90,84,16,b5,fb,66,ee,4e,ab,d4,b2,eb,4b,8c,07,9b
+
+[Software\\Wine\\Drivers\\winecoreaudio.drv\\devices\\1,88] 1705274852
+#time=1da47413fc5ef60
+"guid"=hex:b1,d5,6f,36,f2,fc,0e,47,bd,8b,2a,eb,ea,f8,15,67
+
+[Software\\Wine\\Drivers\\winecoreaudio.drv\\devices\\1,93] 1706521881
+#time=1da5298b6d3bda0
+"guid"=hex:5b,01,c0,03,49,f8,89,44,83,ed,a6,d8,e5,23,25,aa
+
+[Software\\Wine\\Drivers\\winecoreaudio.drv\\devices\\1,95] 1706390674
+#time=1da5167395d4b8e
+"guid"=hex:15,3d,dd,b6,e2,7f,f1,4d,a8,75,61,fe,c8,42,8f,70
+
+[Software\\Wine\\Drivers\\winecoreaudio.drv\\devices\\1,98] 1706212944
+#time=1da4fc969c4e13c
+"guid"=hex:34,13,1a,71,f5,6f,26,41,b6,cf,fd,10,a0,21,af,14
+
+[Software\\Wine\\Drivers\\winecoreaudio.drv\\devices\\1,99] 1705339902
+#time=1da47d8b4258a90
+"guid"=hex:58,d5,f7,88,1d,aa,e2,43,9e,25,6e,55,07,4d,b9,9f
+
+[Software\\Wine\\FileOpenAssociations] 1706396968
+#time=1da5175e0cadf86
+"Enable"="Y"
+
+[Software\\Wine\\Fonts] 1707404023
+#time=1da5a9e9c65c0f4
+"Codepages"="65001,65001"
+"LogPixels"=dword:00000060
+
+[Software\\Wine\\Fonts\\External Fonts] 1707404023
+#time=1da5a9e9c671594
+"@Apple SD Gothic Neo Regular (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\AppleSDGothicNeo.ttc"
+"@Arial Unicode MS (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\Arial Unicode.ttf"
+"@Brush Script MT Italic (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\Brush Script.ttf"
+"@Heiti SC Light (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\STHeiti Light.ttc"
+"@Heiti SC Medium (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\STHeiti Medium.ttc"
+"@Heiti TC Light (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\STHeiti Light.ttc"
+"@Heiti TC Medium (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\STHeiti Medium.ttc"
+"@Hiragino Sans GB W3 (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Hiragino Sans GB.ttc"
+"@Hiragino Sans W0 (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\\x30d2\x30e9\x30ae\x30ce\x89d2\x30b4\x30b7\x30c3\x30af W0.ttc"
+"@Hiragino Sans W1 (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\\x30d2\x30e9\x30ae\x30ce\x89d2\x30b4\x30b7\x30c3\x30af W1.ttc"
+"@Hiragino Sans W2 (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\\x30d2\x30e9\x30ae\x30ce\x89d2\x30b4\x30b7\x30c3\x30af W2.ttc"
+"@Hiragino Sans W3 (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\\x30d2\x30e9\x30ae\x30ce\x89d2\x30b4\x30b7\x30c3\x30af W3.ttc"
+"@Hiragino Sans W4 (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\\x30d2\x30e9\x30ae\x30ce\x89d2\x30b4\x30b7\x30c3\x30af W4.ttc"
+"@Hiragino Sans W5 (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\\x30d2\x30e9\x30ae\x30ce\x89d2\x30b4\x30b7\x30c3\x30af W5.ttc"
+"@Hiragino Sans W6 (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\\x30d2\x30e9\x30ae\x30ce\x89d2\x30b4\x30b7\x30c3\x30af W6.ttc"
+"@Hiragino Sans W7 (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\\x30d2\x30e9\x30ae\x30ce\x89d2\x30b4\x30b7\x30c3\x30af W7.ttc"
+"@Hiragino Sans W8 (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\\x30d2\x30e9\x30ae\x30ce\x89d2\x30b4\x30b7\x30c3\x30af W8.ttc"
+"@Hiragino Sans W9 (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\\x30d2\x30e9\x30ae\x30ce\x89d2\x30b4\x30b7\x30c3\x30af W9.ttc"
+"@HiraMaruPro-W4 (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\\x30d2\x30e9\x30ae\x30ce\x4e38\x30b4 ProN W4.ttc"
+"@HiraMaruProN-W4 (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\\x30d2\x30e9\x30ae\x30ce\x4e38\x30b4 ProN W4.ttc"
+"@HiraMinPro-W3 (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\\x30d2\x30e9\x30ae\x30ce\x660e\x671d ProN.ttc"
+"@HiraMinPro-W6 (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\\x30d2\x30e9\x30ae\x30ce\x660e\x671d ProN.ttc"
+"@HiraMinProN-W3 (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\\x30d2\x30e9\x30ae\x30ce\x660e\x671d ProN.ttc"
+"@HiraMinProN-W6 (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\\x30d2\x30e9\x30ae\x30ce\x660e\x671d ProN.ttc"
+"@PingFang HK Light (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\PingFang.ttc"
+"@PingFang HK Medium (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\PingFang.ttc"
+"@PingFang HK Regular (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\PingFang.ttc"
+"@PingFang HK Semibold (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\PingFang.ttc"
+"@PingFang HK Thin (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\PingFang.ttc"
+"@PingFang HK Ultralight (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\PingFang.ttc"
+"@PingFang SC Light (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\PingFang.ttc"
+"@PingFang SC Medium (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\PingFang.ttc"
+"@PingFang SC Regular (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\PingFang.ttc"
+"@PingFang SC Semibold (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\PingFang.ttc"
+"@PingFang SC Thin (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\PingFang.ttc"
+"@PingFang SC Ultralight (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\PingFang.ttc"
+"@PingFang TC Light (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\PingFang.ttc"
+"@PingFang TC Medium (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\PingFang.ttc"
+"@PingFang TC Regular (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\PingFang.ttc"
+"@PingFang TC Semibold (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\PingFang.ttc"
+"@PingFang TC Thin (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\PingFang.ttc"
+"@PingFang TC Ultralight (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\PingFang.ttc"
+"@Songti SC Black (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\Songti.ttc"
+"@Songti SC Bold (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\Songti.ttc"
+"@Songti SC Light (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\Songti.ttc"
+"@Songti SC Regular (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\Songti.ttc"
+"@Songti TC Bold (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\Songti.ttc"
+"@Songti TC Light (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\Songti.ttc"
+"@Songti TC Regular (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\Songti.ttc"
+"@STSong (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\Songti.ttc"
+"Academy Engraved LET Plain:1.0 (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\Academy Engraved LET Fonts.ttf"
+"Al Bayan Plain (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\AlBayan.ttc"
+"Al Nile (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\Al Nile.ttc"
+"Al Tarikh Regular (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\Al Tarikh.ttc"
+"American Typewriter (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\AmericanTypewriter.ttc"
+"American Typewriter Bold (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\AmericanTypewriter.ttc"
+"American Typewriter Condensed (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\AmericanTypewriter.ttc"
+"American Typewriter Condensed Bold (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\AmericanTypewriter.ttc"
+"American Typewriter Condensed Light (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\AmericanTypewriter.ttc"
+"American Typewriter Light (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\AmericanTypewriter.ttc"
+"American Typewriter Semibold (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\AmericanTypewriter.ttc"
+"Apple Braille (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Apple Braille.ttf"
+"Apple Braille Outline 6 Dot (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Apple Braille Outline 6 Dot.ttf"
+"Apple Braille Outline 8 Dot (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Apple Braille Outline 8 Dot.ttf"
+"Apple Braille Pinpoint 6 Dot (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Apple Braille Pinpoint 6 Dot.ttf"
+"Apple Braille Pinpoint 8 Dot (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Apple Braille Pinpoint 8 Dot.ttf"
+"Apple Chancery (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\Apple Chancery.ttf"
+"Apple Color Emoji (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Apple Color Emoji.ttc"
+"Apple SD Gothic Neo Regular (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\AppleSDGothicNeo.ttc"
+"Apple Symbols (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Apple Symbols.ttf"
+"Arial (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\Arial.ttf"
+"Arial Black (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\Arial Black.ttf"
+"Arial Bold (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\Arial Bold.ttf"
+"Arial Bold Italic (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\Arial Bold Italic.ttf"
+"Arial Hebrew (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\ArialHB.ttc"
+"Arial Hebrew Bold (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\ArialHB.ttc"
+"Arial Hebrew Light (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\ArialHB.ttc"
+"Arial Italic (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\Arial Italic.ttf"
+"Arial Narrow (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\Arial Narrow.ttf"
+"Arial Narrow Bold (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\Arial Narrow Bold.ttf"
+"Arial Narrow Bold Italic (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\Arial Narrow Bold Italic.ttf"
+"Arial Narrow Italic (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\Arial Narrow Italic.ttf"
+"Arial Rounded MT Bold (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\Arial Rounded Bold.ttf"
+"Arial Unicode MS (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\Arial Unicode.ttf"
+"Avenir Black (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Avenir.ttc"
+"Avenir Black Oblique (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Avenir.ttc"
+"Avenir Book (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Avenir.ttc"
+"Avenir Book Oblique (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Avenir.ttc"
+"Avenir Heavy (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Avenir.ttc"
+"Avenir Heavy Oblique (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Avenir.ttc"
+"Avenir Light (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Avenir.ttc"
+"Avenir Light Oblique (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Avenir.ttc"
+"Avenir Medium (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Avenir.ttc"
+"Avenir Medium Oblique (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Avenir.ttc"
+"Avenir Next Bold (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Avenir Next.ttc"
+"Avenir Next Bold Italic (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Avenir Next.ttc"
+"Avenir Next Condensed Bold (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Avenir Next Condensed.ttc"
+"Avenir Next Condensed Bold Italic (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Avenir Next Condensed.ttc"
+"Avenir Next Condensed Demi Bold (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Avenir Next Condensed.ttc"
+"Avenir Next Condensed Demi Bold Italic (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Avenir Next Condensed.ttc"
+"Avenir Next Condensed Heavy (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Avenir Next Condensed.ttc"
+"Avenir Next Condensed Heavy Italic (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Avenir Next Condensed.ttc"
+"Avenir Next Condensed Italic (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Avenir Next Condensed.ttc"
+"Avenir Next Condensed Medium (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Avenir Next Condensed.ttc"
+"Avenir Next Condensed Regular (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Avenir Next Condensed.ttc"
+"Avenir Next Condensed Ultra Light (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Avenir Next Condensed.ttc"
+"Avenir Next Condensed Ultra Light Italic (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Avenir Next Condensed.ttc"
+"Avenir Next Demi Bold (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Avenir Next.ttc"
+"Avenir Next Demi Bold Italic (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Avenir Next.ttc"
+"Avenir Next Heavy (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Avenir Next.ttc"
+"Avenir Next Heavy Italic (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Avenir Next.ttc"
+"Avenir Next Italic (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Avenir Next.ttc"
+"Avenir Next Medium (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Avenir Next.ttc"
+"Avenir Next Medium Condensed Italic (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Avenir Next Condensed.ttc"
+"Avenir Next Medium Italic (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Avenir Next.ttc"
+"Avenir Next Regular (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Avenir Next.ttc"
+"Avenir Next Ultra Light Italic (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Avenir Next.ttc"
+"Avenir Oblique (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Avenir.ttc"
+"Avenir Roman (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Avenir.ttc"
+"AvenirNext-UltraLight (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Avenir Next.ttc"
+"Ayuthaya (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\Ayuthaya.ttf"
+"Baghdad Regular (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\Baghdad.ttc"
+"Bangla MN (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\Bangla MN.ttc"
+"Bangla MN Bold (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\Bangla MN.ttc"
+"Bangla Sangam MN (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\Bangla Sangam MN.ttc"
+"Bangla Sangam MN Bold (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\Bangla Sangam MN.ttc"
+"Baskerville (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\Baskerville.ttc"
+"Baskerville Bold (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\Baskerville.ttc"
+"Baskerville Bold Italic (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\Baskerville.ttc"
+"Baskerville Italic (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\Baskerville.ttc"
+"Baskerville SemiBold (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\Baskerville.ttc"
+"Baskerville SemiBold Italic (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\Baskerville.ttc"
+"Beirut Regular (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\Beirut.ttc"
+"Big Caslon Medium (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\BigCaslon.ttf"
+"Bodoni 72 Bold (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\Bodoni 72.ttc"
+"Bodoni 72 Book (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\Bodoni 72.ttc"
+"Bodoni 72 Book Italic (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\Bodoni 72.ttc"
+"Bodoni 72 Oldstyle Bold (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\Bodoni 72 OS.ttc"
+"Bodoni 72 Oldstyle Book (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\Bodoni 72 OS.ttc"
+"Bodoni 72 Oldstyle Book Italic (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\Bodoni 72 OS.ttc"
+"Bodoni 72 Smallcaps Book (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\Bodoni 72 Smallcaps Book.ttf"
+"Bodoni Ornaments (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\Bodoni Ornaments.ttf"
+"Bradley Hand Bold (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\Bradley Hand Bold.ttf"
+"Brush Script MT Italic (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\Brush Script.ttf"
+"Chalkboard (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\Chalkboard.ttc"
+"Chalkboard Bold (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\Chalkboard.ttc"
+"Chalkboard SE Bold (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\ChalkboardSE.ttc"
+"Chalkboard SE Light (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\ChalkboardSE.ttc"
+"Chalkboard SE Regular (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\ChalkboardSE.ttc"
+"Chalkduster (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\Chalkduster.ttf"
+"Charter Black (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\Charter.ttc"
+"Charter Black Italic (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\Charter.ttc"
+"Charter Bold (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\Charter.ttc"
+"Charter BT Bold Italic (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\Charter.ttc"
+"Charter Italic (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\Charter.ttc"
+"Charter Roman (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\Charter.ttc"
+"Cochin (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\Cochin.ttc"
+"Cochin Bold (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\Cochin.ttc"
+"Cochin Bold Italic (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\Cochin.ttc"
+"Cochin Italic (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\Cochin.ttc"
+"Comic Sans MS (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\Comic Sans MS.ttf"
+"Comic Sans MS Bold (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\Comic Sans MS Bold.ttf"
+"Copperplate (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\Copperplate.ttc"
+"Copperplate Bold (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\Copperplate.ttc"
+"Copperplate Light (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\Copperplate.ttc"
+"Corsiva Hebrew (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\Corsiva.ttc"
+"Corsiva Hebrew Bold (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\Corsiva.ttc"
+"Courier New (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\Courier New.ttf"
+"Courier New Bold (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\Courier New Bold.ttf"
+"Courier New Bold Italic (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\Courier New Bold Italic.ttf"
+"Courier New Italic (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\Courier New Italic.ttf"
+"Damascus Regular (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\Damascus.ttc"
+"DecoType Naskh Regular (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\DecoTypeNaskh.ttc"
+"DejaVu Sans (TrueType)"="\\??\\unix\\Users\\domdorn\\Library\\Fonts\\DejaVuSans.ttf"
+"DejaVu Sans Bold (TrueType)"="\\??\\unix\\Users\\domdorn\\Library\\Fonts\\DejaVuSans-Bold.ttf"
+"DejaVu Sans Bold Oblique (TrueType)"="\\??\\unix\\Users\\domdorn\\Library\\Fonts\\DejaVuSans-BoldOblique.ttf"
+"DejaVu Sans Condensed (TrueType)"="\\??\\unix\\Users\\domdorn\\Library\\Fonts\\DejaVuSansCondensed.ttf"
+"DejaVu Sans Condensed Bold (TrueType)"="\\??\\unix\\Users\\domdorn\\Library\\Fonts\\DejaVuSansCondensed-Bold.ttf"
+"DejaVu Sans Condensed Bold Oblique (TrueType)"="\\??\\unix\\Users\\domdorn\\Library\\Fonts\\DejaVuSansCondensed-BoldOblique.ttf"
+"DejaVu Sans Condensed Oblique (TrueType)"="\\??\\unix\\Users\\domdorn\\Library\\Fonts\\DejaVuSansCondensed-Oblique.ttf"
+"DejaVu Sans ExtraLight (TrueType)"="\\??\\unix\\Users\\domdorn\\Library\\Fonts\\DejaVuSans-ExtraLight.ttf"
+"DejaVu Sans Mono (TrueType)"="\\??\\unix\\Users\\domdorn\\Library\\Fonts\\DejaVuSansMono.ttf"
+"DejaVu Sans Mono Bold (TrueType)"="\\??\\unix\\Users\\domdorn\\Library\\Fonts\\DejaVuSansMono-Bold.ttf"
+"DejaVu Sans Mono Bold Oblique (TrueType)"="\\??\\unix\\Users\\domdorn\\Library\\Fonts\\DejaVuSansMono-BoldOblique.ttf"
+"DejaVu Sans Mono Oblique (TrueType)"="\\??\\unix\\Users\\domdorn\\Library\\Fonts\\DejaVuSansMono-Oblique.ttf"
+"DejaVu Sans Oblique (TrueType)"="\\??\\unix\\Users\\domdorn\\Library\\Fonts\\DejaVuSans-Oblique.ttf"
+"DejaVu Serif (TrueType)"="\\??\\unix\\Users\\domdorn\\Library\\Fonts\\DejaVuSerif.ttf"
+"DejaVu Serif Bold (TrueType)"="\\??\\unix\\Users\\domdorn\\Library\\Fonts\\DejaVuSerif-Bold.ttf"
+"DejaVu Serif Bold Italic (TrueType)"="\\??\\unix\\Users\\domdorn\\Library\\Fonts\\DejaVuSerif-BoldItalic.ttf"
+"DejaVu Serif Condensed (TrueType)"="\\??\\unix\\Users\\domdorn\\Library\\Fonts\\DejaVuSerifCondensed.ttf"
+"DejaVu Serif Condensed Bold (TrueType)"="\\??\\unix\\Users\\domdorn\\Library\\Fonts\\DejaVuSerifCondensed-Bold.ttf"
+"DejaVu Serif Condensed Bold Italic (TrueType)"="\\??\\unix\\Users\\domdorn\\Library\\Fonts\\DejaVuSerifCondensed-BoldItalic.ttf"
+"DejaVu Serif Condensed Italic (TrueType)"="\\??\\unix\\Users\\domdorn\\Library\\Fonts\\DejaVuSerifCondensed-Italic.ttf"
+"DejaVu Serif Italic (TrueType)"="\\??\\unix\\Users\\domdorn\\Library\\Fonts\\DejaVuSerif-Italic.ttf"
+"DejaVuMathTeXGyre-Regular (TrueType)"="\\??\\unix\\Users\\domdorn\\Library\\Fonts\\DejaVuMathTeXGyre.ttf"
+"Devanagari MT (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\DevanagariMT.ttc"
+"Devanagari MT Bold (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\DevanagariMT.ttc"
+"Devanagari Sangam MN (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\Devanagari Sangam MN.ttc"
+"Devanagari Sangam MN Bold (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\Devanagari Sangam MN.ttc"
+"Didot (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\Didot.ttc"
+"Didot Bold (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\Didot.ttc"
+"Didot Italic (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\Didot.ttc"
+"DIN Alternate Bold (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\DIN Alternate Bold.ttf"
+"DIN Condensed Bold (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\DIN Condensed Bold.ttf"
+"Diwan Kufi Regular (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\Diwan Kufi.ttc"
+"Diwan Thuluth Regular (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\Diwan Thuluth.ttf"
+"Euphemia UCAS (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\EuphemiaCAS.ttc"
+"Euphemia UCAS Bold (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\EuphemiaCAS.ttc"
+"Euphemia UCAS Italic (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\EuphemiaCAS.ttc"
+"Farah Regular (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\Farah.ttc"
+"Farisi Regular (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\Farisi.ttf"
+"Futura Bold (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\Futura.ttc"
+"Futura Condensed ExtraBold (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\Futura.ttc"
+"Futura Condensed Medium (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\Futura.ttc"
+"Futura Medium (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\Futura.ttc"
+"Futura Medium Italic (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\Futura.ttc"
+"Galvji (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\Galvji.ttc"
+"Galvji Oblique (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\Galvji.ttc"
+"Galvji-Bold (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\Galvji.ttc"
+"Galvji-BoldOblique (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\Galvji.ttc"
+"Geeza Pro Bold (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\GeezaPro.ttc"
+"Geeza Pro Regular (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\GeezaPro.ttc"
+"Geneva (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Geneva.ttf"
+"Georgia (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\Georgia.ttf"
+"Georgia Bold (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\Georgia Bold.ttf"
+"Georgia Bold Italic (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\Georgia Bold Italic.ttf"
+"Georgia Italic (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\Georgia Italic.ttf"
+"Gill Sans (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\GillSans.ttc"
+"Gill Sans Bold (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\GillSans.ttc"
+"Gill Sans Bold Italic (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\GillSans.ttc"
+"Gill Sans Italic (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\GillSans.ttc"
+"Gill Sans Light (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\GillSans.ttc"
+"Gill Sans Light Italic (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\GillSans.ttc"
+"Gill Sans SemiBold (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\GillSans.ttc"
+"Gill Sans SemiBold Italic (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\GillSans.ttc"
+"Gill Sans UltraBold (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\GillSans.ttc"
+"Grantha Sangam MN Bold (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\Tamil Sangam MN.ttc"
+"Grantha Sangam MN Regular (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\Tamil Sangam MN.ttc"
+"Gujarati MT (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\GujaratiMT.ttc"
+"Gujarati MT Bold (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\GujaratiMT.ttc"
+"Gujarati Sangam MN (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\Gujarati Sangam MN.ttc"
+"Gujarati Sangam MN Bold (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\Gujarati Sangam MN.ttc"
+"Gurmukhi MN (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\Gurmukhi MN.ttc"
+"Gurmukhi MN Bold (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\Gurmukhi MN.ttc"
+"Gurmukhi MT (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\Gurmukhi.ttf"
+"Gurmukhi Sangam MN (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\Gurmukhi Sangam MN.ttc"
+"Gurmukhi Sangam MN Bold (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\Gurmukhi Sangam MN.ttc"
+"Heiti SC Light (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\STHeiti Light.ttc"
+"Heiti SC Medium (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\STHeiti Medium.ttc"
+"Heiti TC Light (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\STHeiti Light.ttc"
+"Heiti TC Medium (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\STHeiti Medium.ttc"
+"Helvetica (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Helvetica.ttc"
+"Helvetica Bold (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Helvetica.ttc"
+"Helvetica Bold Oblique (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Helvetica.ttc"
+"Helvetica Light (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Helvetica.ttc"
+"Helvetica Light Oblique (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Helvetica.ttc"
+"Helvetica Neue (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\HelveticaNeue.ttc"
+"Helvetica Neue Bold (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\HelveticaNeue.ttc"
+"Helvetica Neue Bold Italic (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\HelveticaNeue.ttc"
+"Helvetica Neue Condensed Black (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\HelveticaNeue.ttc"
+"Helvetica Neue Condensed Bold (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\HelveticaNeue.ttc"
+"Helvetica Neue Italic (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\HelveticaNeue.ttc"
+"Helvetica Neue Light (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\HelveticaNeue.ttc"
+"Helvetica Neue Light Italic (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\HelveticaNeue.ttc"
+"Helvetica Neue Medium (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\HelveticaNeue.ttc"
+"Helvetica Neue Medium Italic (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\HelveticaNeue.ttc"
+"Helvetica Neue Thin (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\HelveticaNeue.ttc"
+"Helvetica Neue Thin Italic (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\HelveticaNeue.ttc"
+"Helvetica Neue UltraLight (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\HelveticaNeue.ttc"
+"Helvetica Neue UltraLight Italic (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\HelveticaNeue.ttc"
+"Helvetica Oblique (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Helvetica.ttc"
+"Herculanum (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\Herculanum.ttf"
+"Hiragino Sans GB W3 (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Hiragino Sans GB.ttc"
+"Hiragino Sans W0 (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\\x30d2\x30e9\x30ae\x30ce\x89d2\x30b4\x30b7\x30c3\x30af W0.ttc"
+"Hiragino Sans W1 (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\\x30d2\x30e9\x30ae\x30ce\x89d2\x30b4\x30b7\x30c3\x30af W1.ttc"
+"Hiragino Sans W2 (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\\x30d2\x30e9\x30ae\x30ce\x89d2\x30b4\x30b7\x30c3\x30af W2.ttc"
+"Hiragino Sans W3 (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\\x30d2\x30e9\x30ae\x30ce\x89d2\x30b4\x30b7\x30c3\x30af W3.ttc"
+"Hiragino Sans W4 (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\\x30d2\x30e9\x30ae\x30ce\x89d2\x30b4\x30b7\x30c3\x30af W4.ttc"
+"Hiragino Sans W5 (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\\x30d2\x30e9\x30ae\x30ce\x89d2\x30b4\x30b7\x30c3\x30af W5.ttc"
+"Hiragino Sans W6 (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\\x30d2\x30e9\x30ae\x30ce\x89d2\x30b4\x30b7\x30c3\x30af W6.ttc"
+"Hiragino Sans W7 (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\\x30d2\x30e9\x30ae\x30ce\x89d2\x30b4\x30b7\x30c3\x30af W7.ttc"
+"Hiragino Sans W8 (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\\x30d2\x30e9\x30ae\x30ce\x89d2\x30b4\x30b7\x30c3\x30af W8.ttc"
+"Hiragino Sans W9 (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\\x30d2\x30e9\x30ae\x30ce\x89d2\x30b4\x30b7\x30c3\x30af W9.ttc"
+"HiraMaruPro-W4 (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\\x30d2\x30e9\x30ae\x30ce\x4e38\x30b4 ProN W4.ttc"
+"HiraMaruProN-W4 (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\\x30d2\x30e9\x30ae\x30ce\x4e38\x30b4 ProN W4.ttc"
+"HiraMinPro-W3 (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\\x30d2\x30e9\x30ae\x30ce\x660e\x671d ProN.ttc"
+"HiraMinPro-W6 (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\\x30d2\x30e9\x30ae\x30ce\x660e\x671d ProN.ttc"
+"HiraMinProN-W3 (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\\x30d2\x30e9\x30ae\x30ce\x660e\x671d ProN.ttc"
+"HiraMinProN-W6 (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\\x30d2\x30e9\x30ae\x30ce\x660e\x671d ProN.ttc"
+"Hoefler Text (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\Hoefler Text.ttc"
+"Hoefler Text Black (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\Hoefler Text.ttc"
+"Hoefler Text Black Italic (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\Hoefler Text.ttc"
+"Hoefler Text Italic (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\Hoefler Text.ttc"
+"Hoefler Text Ornaments (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\Hoefler Text Ornaments.ttf"
+"Impact (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\Impact.ttf"
+"InaiMathi (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\InaiMathi-MN.ttc"
+"InaiMathi Bold (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\InaiMathi-MN.ttc"
+"ITF Devanagari Marathi Medium (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\ITFDevanagari.ttc"
+"ITFDevanagari Marathi Light (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\ITFDevanagari.ttc"
+"ITFDevanagari Marathi-Bold (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\ITFDevanagari.ttc"
+"ITFDevanagari Marathi-Book (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\ITFDevanagari.ttc"
+"ITFDevanagari Marathi-Demi (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\ITFDevanagari.ttc"
+"ITFDevanagari-Bold (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\ITFDevanagari.ttc"
+"ITFDevanagari-Book (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\ITFDevanagari.ttc"
+"ITFDevanagari-Demi (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\ITFDevanagari.ttc"
+"ITFDevanagari-Light (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\ITFDevanagari.ttc"
+"ITFDevanagari-Medium (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\ITFDevanagari.ttc"
+"Kailasa Bold (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\Kailasa.ttc"
+"Kailasa Regular (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\Kailasa.ttc"
+"Kannada MN (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\Kannada MN.ttc"
+"Kannada MN Bold (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\Kannada MN.ttc"
+"Kannada Sangam MN (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\Kannada Sangam MN.ttc"
+"Kannada Sangam MN Bold (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\Kannada Sangam MN.ttc"
+"Kefa Bold (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\Kefa.ttc"
+"Kefa Regular (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\Kefa.ttc"
+"Khmer MN (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\Khmer MN.ttc"
+"Khmer MN Bold (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\Khmer MN.ttc"
+"Khmer Sangam MN (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\Khmer Sangam MN.ttf"
+"Kohinoor Bangla (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\KohinoorBangla.ttc"
+"Kohinoor Bangla Bold (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\KohinoorBangla.ttc"
+"Kohinoor Bangla Light (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\KohinoorBangla.ttc"
+"Kohinoor Bangla Medium (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\KohinoorBangla.ttc"
+"Kohinoor Bangla Semibold (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\KohinoorBangla.ttc"
+"Kohinoor Devanagari Bold (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Kohinoor.ttc"
+"Kohinoor Devanagari Light (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Kohinoor.ttc"
+"Kohinoor Devanagari Medium (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Kohinoor.ttc"
+"Kohinoor Devanagari Regular (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Kohinoor.ttc"
+"Kohinoor Devanagari Semibold (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Kohinoor.ttc"
+"Kohinoor Gujarati Bold (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\KohinoorGujarati.ttc"
+"Kohinoor Gujarati Light (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\KohinoorGujarati.ttc"
+"Kohinoor Gujarati Medium (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\KohinoorGujarati.ttc"
+"Kohinoor Gujarati Regular (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\KohinoorGujarati.ttc"
+"Kohinoor Gujarati Semibold (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\KohinoorGujarati.ttc"
+"Kohinoor Telugu (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\KohinoorTelugu.ttc"
+"Kohinoor Telugu Bold (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\KohinoorTelugu.ttc"
+"Kohinoor Telugu Light (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\KohinoorTelugu.ttc"
+"Kohinoor Telugu Medium (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\KohinoorTelugu.ttc"
+"Kohinoor Telugu Semibold (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\KohinoorTelugu.ttc"
+"Kokonor Regular (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\Kokonor.ttf"
+"Krungthep (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\Krungthep.ttf"
+"KufiStandardGK Regular (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\KufiStandardGK.ttc"
+"Lao MN (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\Lao MN.ttc"
+"Lao MN Bold (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\Lao MN.ttc"
+"Lao Sangam MN (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\Lao Sangam MN.ttf"
+"Lucida Grande (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\LucidaGrande.ttc"
+"Lucida Grande Bold (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\LucidaGrande.ttc"
+"Luminari (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\Luminari.ttf"
+"Malayalam MN (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\Malayalam MN.ttc"
+"Malayalam MN Bold (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\Malayalam MN.ttc"
+"Malayalam Sangam MN (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\Malayalam Sangam MN.ttc"
+"Malayalam Sangam MN Bold (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\Malayalam Sangam MN.ttc"
+"Marker Felt Thin (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\MarkerFelt.ttc"
+"Marker Felt Wide (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\MarkerFelt.ttc"
+"Marlett (TrueType)"="\\??\\unix\\Users\\domdorn\\Library\\Application Support\\com.isaacmarovitz.Whisky\\Libraries\\Wine\\share\\wine\\fonts\\marlett.ttf"
+"Maven Pro Black (TrueType)"="\\??\\unix\\Users\\domdorn\\Library\\Fonts\\MavenPro-Black.ttf"
+"Maven Pro Bold (TrueType)"="\\??\\unix\\Users\\domdorn\\Library\\Fonts\\MavenPro-Bold.ttf"
+"Maven Pro Medium (TrueType)"="\\??\\unix\\Users\\domdorn\\Library\\Fonts\\MavenPro-Medium.ttf"
+"Maven Pro Regular (TrueType)"="\\??\\unix\\Users\\domdorn\\Library\\Fonts\\MavenPro-Regular.ttf"
+"MavenProLight100-Regular (TrueType)"="\\??\\unix\\Users\\domdorn\\Library\\Fonts\\MavenProLight-100.otf"
+"MavenProLight200-Regular (TrueType)"="\\??\\unix\\Users\\domdorn\\Library\\Fonts\\MavenProLight-200.otf"
+"MavenProLight300-Regular (TrueType)"="\\??\\unix\\Users\\domdorn\\Library\\Fonts\\MavenProLight-300.otf"
+"Menlo Bold (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Menlo.ttc"
+"Menlo Bold Italic (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Menlo.ttc"
+"Menlo Italic (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Menlo.ttc"
+"Menlo Regular (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Menlo.ttc"
+"Microsoft Sans Serif (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\Microsoft Sans Serif.ttf"
+"Mishafi Gold Regular (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\Mishafi Gold.ttf"
+"Mishafi Regular (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\Mishafi.ttf"
+"Monaco (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Monaco.ttf"
+"Mshtakan (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\Mshtakan.ttc"
+"Mshtakan Bold (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\Mshtakan.ttc"
+"Mshtakan BoldOblique (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\Mshtakan.ttc"
+"Mshtakan Oblique (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\Mshtakan.ttc"
+"MuktaMahee Bold (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\MuktaMahee.ttc"
+"MuktaMahee ExtraBold (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\MuktaMahee.ttc"
+"MuktaMahee ExtraLight (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\MuktaMahee.ttc"
+"MuktaMahee Light (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\MuktaMahee.ttc"
+"MuktaMahee Medium (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\MuktaMahee.ttc"
+"MuktaMahee Regular (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\MuktaMahee.ttc"
+"MuktaMahee SemiBold (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\MuktaMahee.ttc"
+"Muna Regular (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\Muna.ttc"
+"Myanmar MN (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\Myanmar MN.ttc"
+"Myanmar MN Bold (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\Myanmar MN.ttc"
+"Myanmar Sangam MN (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\Myanmar Sangam MN.ttc"
+"Myanmar Sangam MN Bold (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\Myanmar Sangam MN.ttc"
+"Nadeem Regular (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\Nadeem.ttc"
+"New Peninim MT (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\NewPeninimMT.ttc"
+"New Peninim MT Bold (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\NewPeninimMT.ttc"
+"New Peninim MT Bold Inclined (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\NewPeninimMT.ttc"
+"New Peninim MT Inclined (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\NewPeninimMT.ttc"
+"Noteworthy Bold (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Noteworthy.ttc"
+"Noteworthy Light (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Noteworthy.ttc"
+"Noto Nastaliq Urdu (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\NotoNastaliq.ttc"
+"Noto Sans Batak Regular (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\NotoSansBatak-Regular.ttf"
+"Noto Sans Kannada Black (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\NotoSansKannada.ttc"
+"Noto Sans Kannada Bold (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\NotoSansKannada.ttc"
+"Noto Sans Kannada ExtraBold (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\NotoSansKannada.ttc"
+"Noto Sans Kannada ExtraLight (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\NotoSansKannada.ttc"
+"Noto Sans Kannada Light (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\NotoSansKannada.ttc"
+"Noto Sans Kannada Medium (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\NotoSansKannada.ttc"
+"Noto Sans Kannada Regular (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\NotoSansKannada.ttc"
+"Noto Sans Kannada SemiBold (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\NotoSansKannada.ttc"
+"Noto Sans Kannada Thin (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\NotoSansKannada.ttc"
+"Noto Sans Myanmar Black (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\NotoSansMyanmar.ttc"
+"Noto Sans Myanmar Bold (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\NotoSansMyanmar.ttc"
+"Noto Sans Myanmar ExtraBold (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\NotoSansMyanmar.ttc"
+"Noto Sans Myanmar ExtraLight (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\NotoSansMyanmar.ttc"
+"Noto Sans Myanmar Light (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\NotoSansMyanmar.ttc"
+"Noto Sans Myanmar Medium (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\NotoSansMyanmar.ttc"
+"Noto Sans Myanmar Regular (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\NotoSansMyanmar.ttc"
+"Noto Sans Myanmar SemiBold (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\NotoSansMyanmar.ttc"
+"Noto Sans Myanmar Thin (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\NotoSansMyanmar.ttc"
+"Noto Sans NKo Regular (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\NotoSansNKo-Regular.ttf"
+"Noto Sans Oriya (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\NotoSansOriya.ttc"
+"Noto Sans Oriya Bold (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\NotoSansOriya.ttc"
+"Noto Sans Tagalog Regular (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\NotoSansTagalog-Regular.ttf"
+"Noto Sans Zawgyi Black (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\NotoSansMyanmar.ttc"
+"Noto Sans Zawgyi Bold (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\NotoSansMyanmar.ttc"
+"Noto Sans Zawgyi ExtraBold (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\NotoSansMyanmar.ttc"
+"Noto Sans Zawgyi ExtraLight (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\NotoSansMyanmar.ttc"
+"Noto Sans Zawgyi Light (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\NotoSansMyanmar.ttc"
+"Noto Sans Zawgyi Medium (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\NotoSansMyanmar.ttc"
+"Noto Sans Zawgyi Regular (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\NotoSansMyanmar.ttc"
+"Noto Sans Zawgyi SemiBold (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\NotoSansMyanmar.ttc"
+"Noto Sans Zawgyi Thin (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\NotoSansMyanmar.ttc"
+"Noto Serif Myanmar Black (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\NotoSerifMyanmar.ttc"
+"Noto Serif Myanmar Bold (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\NotoSerifMyanmar.ttc"
+"Noto Serif Myanmar ExtraBold (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\NotoSerifMyanmar.ttc"
+"Noto Serif Myanmar ExtraLight (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\NotoSerifMyanmar.ttc"
+"Noto Serif Myanmar Light (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\NotoSerifMyanmar.ttc"
+"Noto Serif Myanmar Medium (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\NotoSerifMyanmar.ttc"
+"Noto Serif Myanmar Regular (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\NotoSerifMyanmar.ttc"
+"Noto Serif Myanmar SemiBold (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\NotoSerifMyanmar.ttc"
+"Noto Serif Myanmar Thin (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\NotoSerifMyanmar.ttc"
+"Optima Bold (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Optima.ttc"
+"Optima Bold Italic (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Optima.ttc"
+"Optima ExtraBlack (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Optima.ttc"
+"Optima Italic (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Optima.ttc"
+"Optima Regular (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Optima.ttc"
+"Oriya MN (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\Oriya MN.ttc"
+"Oriya MN Bold (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\Oriya MN.ttc"
+"Oriya Sangam MN (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\Oriya Sangam MN.ttc"
+"Oriya Sangam MN Bold (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\Oriya Sangam MN.ttc"
+"Palatino (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Palatino.ttc"
+"Palatino Bold (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Palatino.ttc"
+"Palatino Bold Italic (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Palatino.ttc"
+"Palatino Italic (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Palatino.ttc"
+"Papyrus (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\Papyrus.ttc"
+"Papyrus Condensed (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\Papyrus.ttc"
+"Party LET Plain (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\PartyLET-plain.ttf"
+"Phosphate Inline (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\Phosphate.ttc"
+"Phosphate Solid (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\Phosphate.ttc"
+"PingFang HK Light (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\PingFang.ttc"
+"PingFang HK Medium (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\PingFang.ttc"
+"PingFang HK Regular (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\PingFang.ttc"
+"PingFang HK Semibold (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\PingFang.ttc"
+"PingFang HK Thin (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\PingFang.ttc"
+"PingFang HK Ultralight (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\PingFang.ttc"
+"PingFang SC Light (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\PingFang.ttc"
+"PingFang SC Medium (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\PingFang.ttc"
+"PingFang SC Regular (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\PingFang.ttc"
+"PingFang SC Semibold (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\PingFang.ttc"
+"PingFang SC Thin (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\PingFang.ttc"
+"PingFang SC Ultralight (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\PingFang.ttc"
+"PingFang TC Light (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\PingFang.ttc"
+"PingFang TC Medium (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\PingFang.ttc"
+"PingFang TC Regular (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\PingFang.ttc"
+"PingFang TC Semibold (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\PingFang.ttc"
+"PingFang TC Thin (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\PingFang.ttc"
+"PingFang TC Ultralight (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\PingFang.ttc"
+"Plantagenet Cherokee (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\PlantagenetCherokee.ttf"
+"PT Mono (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\PTMono.ttc"
+"PT Mono Bold (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\PTMono.ttc"
+"PT Sans (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\PTSans.ttc"
+"PT Sans Bold (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\PTSans.ttc"
+"PT Sans Bold Italic (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\PTSans.ttc"
+"PT Sans Caption (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\PTSans.ttc"
+"PT Sans Caption Bold (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\PTSans.ttc"
+"PT Sans Italic (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\PTSans.ttc"
+"PT Sans Narrow (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\PTSans.ttc"
+"PT Sans Narrow Bold (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\PTSans.ttc"
+"PT Serif (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\PTSerif.ttc"
+"PT Serif Bold (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\PTSerif.ttc"
+"PT Serif Bold Italic (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\PTSerif.ttc"
+"PT Serif Caption (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\PTSerifCaption.ttc"
+"PT Serif Caption Italic (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\PTSerifCaption.ttc"
+"PT Serif Italic (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\PTSerif.ttc"
+"Raanana (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\Raanana.ttc"
+"Raanana Bold (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\Raanana.ttc"
+"Rockwell (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\Rockwell.ttc"
+"Rockwell Bold Italic (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\Rockwell.ttc"
+"Rockwell Italic (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\Rockwell.ttc"
+"Rockwell-Bold (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\Rockwell.ttc"
+"Sana Regular (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\Sana.ttc"
+"Sathu (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\Sathu.ttf"
+"Savoye LET Plain:1.0 (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\Savoye LET.ttc"
+"Shree Devanagari 714 (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\Shree714.ttc"
+"Shree Devanagari 714 Bold (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\Shree714.ttc"
+"Shree Devanagari 714 Bold Italic (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\Shree714.ttc"
+"Shree Devanagari 714 Italic (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\Shree714.ttc"
+"SignPainter-HouseScript (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\SignPainter.ttc"
+"SignPainter-HouseScript Semibold (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\SignPainter.ttc"
+"Silom (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\Silom.ttf"
+"Sinhala MN (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\Sinhala MN.ttc"
+"Sinhala MN Bold (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\Sinhala MN.ttc"
+"Sinhala Sangam MN (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\Sinhala Sangam MN.ttc"
+"Sinhala Sangam MN Bold (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\Sinhala Sangam MN.ttc"
+"Skia (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\Skia.ttf"
+"Snell Roundhand (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\SnellRoundhand.ttc"
+"Snell Roundhand Black (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\SnellRoundhand.ttc"
+"Snell Roundhand Bold (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\SnellRoundhand.ttc"
+"Songti SC Black (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\Songti.ttc"
+"Songti SC Bold (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\Songti.ttc"
+"Songti SC Light (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\Songti.ttc"
+"Songti SC Regular (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\Songti.ttc"
+"Songti TC Bold (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\Songti.ttc"
+"Songti TC Light (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\Songti.ttc"
+"Songti TC Regular (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\Songti.ttc"
+"STIX Two Math Regular (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\STIXTwoMath.otf"
+"STIX Two Text (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\STIXTwoText.ttf"
+"STIX Two Text Italic (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\STIXTwoText-Italic.ttf"
+"STSong (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\Songti.ttc"
+"SukhumvitSet-Bold (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\SukhumvitSet.ttc"
+"SukhumvitSet-Light (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\SukhumvitSet.ttc"
+"SukhumvitSet-Medium (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\SukhumvitSet.ttc"
+"SukhumvitSet-SemiBold (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\SukhumvitSet.ttc"
+"SukhumvitSet-Text (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\SukhumvitSet.ttc"
+"SukhumvitSet-Thin (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\SukhumvitSet.ttc"
+"Symbol (TrueType)"="\\??\\unix\\Users\\domdorn\\Library\\Application Support\\com.isaacmarovitz.Whisky\\Libraries\\Wine\\share\\wine\\fonts\\symbol.ttf"
+"Tahoma (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\Tahoma.ttf"
+"Tahoma Bold (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\Tahoma Bold.ttf"
+"Tamil MN (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\Tamil MN.ttc"
+"Tamil MN Bold (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\Tamil MN.ttc"
+"Tamil Sangam MN (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\Tamil Sangam MN.ttc"
+"Tamil Sangam MN Bold (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\Tamil Sangam MN.ttc"
+"Telugu MN (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\Telugu MN.ttc"
+"Telugu MN Bold (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\Telugu MN.ttc"
+"Telugu Sangam MN (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\Telugu Sangam MN.ttc"
+"Telugu Sangam MN Bold (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\Telugu Sangam MN.ttc"
+"Thonburi (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\Thonburi.ttc"
+"Thonburi Bold (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\Thonburi.ttc"
+"Thonburi Light (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\Thonburi.ttc"
+"Times New Roman (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\Times New Roman.ttf"
+"Times New Roman Bold (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\Times New Roman Bold.ttf"
+"Times New Roman Bold Italic (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\Times New Roman Bold Italic.ttf"
+"Times New Roman Italic (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\Times New Roman Italic.ttf"
+"Trattatello (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\Trattatello.ttf"
+"Waseem Light (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\Waseem.ttc"
+"Waseem Regular (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\Waseem.ttc"
+"Webdings (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\Webdings.ttf"
+"Wingdings (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\Wingdings.ttf"
+"Wingdings 2 (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\Wingdings 2.ttf"
+"Wingdings 3 (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\Wingdings 3.ttf"
+"Zapf Dingbats (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\ZapfDingbats.ttf"
+"Zapfino (TrueType)"="\\??\\unix\\System\\Library\\Fonts\\Supplemental\\Zapfino.ttf"
+
+[Software\\Wine\\Fonts\\Replacements] 1705274514
+#time=1da474075f91acc
+"Arial Unicode MS"="Unifont"
+
+[Software\\Wine\\Mac Driver] 1705340158
+#time=1da47d94ca1d918
+"RetinaMode"="n"
+
+[Software\\Wine\\WineDbg] 1705274837
+#time=1da474136494c7a
+"ShowCrashDialog"=dword:00000000
+
+[Volatile Environment] 1705272882
+#time=1da473ca99a6cea
+"APPDATA"="C:\\users\\crossover\\AppData\\Roaming"
+"CLIENTNAME"="Console"
+"HOMEDRIVE"="C:"
+"HOMEPATH"="\\users\\crossover"
+"HOMESHARE"=""
+"LOCALAPPDATA"="C:\\users\\crossover\\AppData\\Local"
+"LOGONSERVER"="\\\\MACBOOK-PRO"
+"SESSIONNAME"="Console"
+"USERDOMAIN"="MACBOOK-PRO"
+"USERNAME"="crossover"
+"USERPROFILE"="C:\\users\\crossover"
