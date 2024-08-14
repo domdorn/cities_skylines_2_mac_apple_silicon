@@ -1,5 +1,12 @@
 # Cities: Skylines 2 on Mac / Apple Silicon
 
+
+<h1>PROJECT DEAD - DONT USE ANYMORE!</h1>
+Sadly, after newer patches (the first one after they introduced mods), I wasn't able anymore to get the game working.. sometimes at 
+least the paradox boot logo came, sometimes not even that. Long story short: Its not working anymore. 
+
+## Old content:
+
 <strong>This repository is the approach to simplify getting *Cities Skylines 2* running on MacOS / Apple Silicon.</strong>
 
 This repository should simplify the process and make it easier for others to get the game running on their Macs without many manual steps.
